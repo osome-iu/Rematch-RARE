@@ -1,0 +1,4137 @@
+# ::snt A girl is styling her hair.
+()
+
+# ::snt A group of men play soccer on the beach.
+()
+
+# ::snt One woman is measuring another woman's ankle.
+()
+
+# ::snt A man is cutting up a cucumber.
+()
+
+# ::snt A man is playing a harp.
+()
+
+# ::snt A woman is cutting onions.
+()
+
+# ::snt A man is riding an electric bicycle.
+()
+
+# ::snt A man is playing the drums.
+()
+
+# ::snt A man is playing guitar.
+()
+
+# ::snt A man is playing a guitar.
+()
+
+# ::snt A man is playing a guitar.
+()
+
+# ::snt A man is cutting an onion.
+()
+
+# ::snt A man is cycling.
+()
+
+# ::snt A man is slicing open a fish.
+()
+
+# ::snt A man is slicing a tomato.
+()
+
+# ::snt A man is playing a guitar.
+()
+
+# ::snt A baby panda goes down a slide.
+()
+
+# ::snt A man is singing and playing a guitar.
+()
+
+# ::snt A man attacks a woman.
+()
+
+# ::snt A man is driving a car.
+()
+
+# ::snt A woman is cutting tofu.
+()
+
+# ::snt The woman is styling her hair.
+()
+
+# ::snt Two zebras play in an open field.
+()
+
+# ::snt A man is cutting a potato.
+()
+
+# ::snt A man is slicing an onion.
+()
+
+# ::snt A  man is dancing.
+()
+
+# ::snt A man is riding a motorcycle.
+()
+
+# ::snt A woman is slicing garlics.
+()
+
+# ::snt A man is speaking.
+()
+
+# ::snt A little boy is singing and playing a guitar.
+()
+
+# ::snt A turtle is swimming in water.
+()
+
+# ::snt A young woman is putting stickers all over her face.
+()
+
+# ::snt A woman is wrapping tofu.
+()
+
+# ::snt A cat is eating some corn.
+()
+
+# ::snt A man is eating a food.
+()
+
+# ::snt A man is playing a guitar.
+()
+
+# ::snt A man is kicking pots of water.
+()
+
+# ::snt A man is cutting a pipe with scissors.
+()
+
+# ::snt A woman is dancing in the rain.
+()
+
+# ::snt A woman is taking a bath.
+()
+
+# ::snt A man mixes vegetables in a pot.
+()
+
+# ::snt A woman is talking on a cell phone.
+()
+
+# ::snt A man is playing a guitar.
+()
+
+# ::snt A man is playing a guitar.
+()
+
+# ::snt A man is cutting apple by his hand.
+()
+
+# ::snt A man is opening a door.
+()
+
+# ::snt A man is slicing a tomato.
+()
+
+# ::snt A man is cutting paper with a sword.
+()
+
+# ::snt A boy studies a calendar.
+()
+
+# ::snt The ballerina is dancing.
+()
+
+# ::snt A woman is dancing.
+()
+
+# ::snt A woman is slicing some tomatoes.
+()
+
+# ::snt A woman is water skiing.
+()
+
+# ::snt A man is playing a flute.
+()
+
+# ::snt A man is playing the piano.
+()
+
+# ::snt A woman is picking a can.
+()
+
+# ::snt A man puts three pieces of meat into a pan.
+()
+
+# ::snt A woman is cutting an onion.
+()
+
+# ::snt Some men are sawing.
+()
+
+# ::snt A car is driven down the road.
+()
+
+# ::snt The man is kissing and hugging the woman.
+()
+
+# ::snt A train is moving.
+()
+
+# ::snt Someone is slicing an onion.
+()
+
+# ::snt A woman is playing in the ocean.
+()
+
+# ::snt A person is playing an electronic keyboard.
+()
+
+# ::snt A man is holding a leaf.
+()
+
+# ::snt A woman is peeling shrimp.
+()
+
+# ::snt A man is sitting and smoking.
+()
+
+# ::snt A man is playing a guitar.
+()
+
+# ::snt A man is standing in front of the window and looking outside.
+()
+
+# ::snt A skunk is looking here and there.
+()
+
+# ::snt A man is playing the guitar and singing.
+()
+
+# ::snt A woman opens a window.
+()
+
+# ::snt People are dancing outside.
+()
+
+# ::snt The man is using a camera to hammer a nail.
+()
+
+# ::snt A woman is filing her nails.
+()
+
+# ::snt A boy is crawling into a dog house.
+()
+
+# ::snt A woman is swimming underwater.
+()
+
+# ::snt A machine is sharpening a pencil.
+()
+
+# ::snt A monkey is playing drums.
+()
+
+# ::snt A man is opening a box and taking out paper.
+()
+
+# ::snt A woman is dancing.
+()
+
+# ::snt A person is drawing on a large touchscreen.
+()
+
+# ::snt The men played follow the leader on the grass.
+()
+
+# ::snt A woman is cracking eggs.
+()
+
+# ::snt A woman peels garlic with her hands.
+()
+
+# ::snt The polar bears fought over the kill.
+()
+
+# ::snt A man is doing trick with play cards.
+()
+
+# ::snt The cat is licking a bottle.
+()
+
+# ::snt A person is slicing an onion.
+()
+
+# ::snt A person is peeling a potato with a potato peeler.
+()
+
+# ::snt Two women are dancing and singing in front of a crowd.
+()
+
+# ::snt A man is seasoning some carrots.
+()
+
+# ::snt Two men pushed carts through the woods.
+()
+
+# ::snt A man is playing a football.
+()
+
+# ::snt The lady peeled the potatoe.
+()
+
+# ::snt A woman is slicing some tofu.
+()
+
+# ::snt Someone typed on a keyboard.
+()
+
+# ::snt Three young men run, jump, and kick off of a Coke machine.
+()
+
+# ::snt A young Asian girl is applying eyeliner.
+()
+
+# ::snt A cat is walking around a house.
+()
+
+# ::snt A woman is talking to her pet bunny as she fondles it.
+()
+
+# ::snt A monkey is playing drums.
+()
+
+# ::snt A man is riding a white horse on an enclosed ground.
+()
+
+# ::snt An oriental lady is cutting a carrot into thin pieces.
+()
+
+# ::snt A group of people are dancing.
+()
+
+# ::snt A man is playing guitar.
+()
+
+# ::snt A woman mixes up vegetables.
+()
+
+# ::snt A woman pours a mixture into a bowl and mixes it.
+()
+
+# ::snt A man is cutting pieces of butter into a mixing bowl.
+()
+
+# ::snt A man is putting garlic on some bread slices.
+()
+
+# ::snt The panda bear lay on the logs.
+()
+
+# ::snt Five men jump into a swimming pool.
+()
+
+# ::snt A cheetah is running behind its prey.
+()
+
+# ::snt A cat is playing on the floor.
+()
+
+# ::snt A boy is playing violin on stage.
+()
+
+# ::snt A dog is barking at a toy.
+()
+
+# ::snt A man is cycling.
+()
+
+# ::snt A woman is slicing ginger.
+()
+
+# ::snt A man is dragging a dead deer.
+()
+
+# ::snt A man is preparing a snake for cooking.
+()
+
+# ::snt A woman is spreading mustard on a bread roll.
+()
+
+# ::snt Someone touched the kitten chewing on a string.
+()
+
+# ::snt Meat is being put into a skillet.
+()
+
+# ::snt A baby elephant is eating a small tree.
+()
+
+# ::snt A woman and man are dancing in the rain.
+()
+
+# ::snt Someone is drawing.
+()
+
+# ::snt A man is playing a guitar.
+()
+
+# ::snt Two men are fistfighting in a ring.
+()
+
+# ::snt A person wipes butter on a tray.
+()
+
+# ::snt Two men are playing football.
+()
+
+# ::snt The man is playing the guitar.
+()
+
+# ::snt A man is peeling a potato.
+()
+
+# ::snt A woman is stabbing a potato with a fork.
+()
+
+# ::snt A child is waking up.
+()
+
+# ::snt A boy is playing a key-board.
+()
+
+# ::snt A woman plays the flute.
+()
+
+# ::snt A woman is playing an electric guitar.
+()
+
+# ::snt A man is playing a flute.
+()
+
+# ::snt A group of people are sweeping water out of a house.
+()
+
+# ::snt A man plays a guitar.
+()
+
+# ::snt A man and a woman is kissing each other.
+()
+
+# ::snt A woman is climbing a cliff.
+()
+
+# ::snt A polar bear is running towards a group of walruses.
+()
+
+# ::snt A woman is cutting some fish.
+()
+
+# ::snt Someone is playing a piano.
+()
+
+# ::snt A man is pouring rice a roni into a pan.
+()
+
+# ::snt A man is breaking wooden boards with his hand.
+()
+
+# ::snt A girl is playing guitar.
+()
+
+# ::snt A man is praying.
+()
+
+# ::snt A man is playing piano.
+()
+
+# ::snt A woman is slicing an onion.
+()
+
+# ::snt A man is riding a horse by a creek.
+()
+
+# ::snt A man is playing a guitar.
+()
+
+# ::snt A man is picking up a tree.
+()
+
+# ::snt A person is peeling a potato.
+()
+
+# ::snt A person is playing a piano.
+()
+
+# ::snt A man is spitting.
+()
+
+# ::snt A man is playing a musical keyboard.
+()
+
+# ::snt A man is dancing.
+()
+
+# ::snt A man plays a trumpet.
+()
+
+# ::snt A woman is riding a horse.
+()
+
+# ::snt A band is playing on stage.
+()
+
+# ::snt A woman is playing a guitar and singing.
+()
+
+# ::snt The man is eating.
+()
+
+# ::snt A little boy hits a golf ball.
+()
+
+# ::snt A guy is taking off his sunglasses.
+()
+
+# ::snt Someone is reading an email.
+()
+
+# ::snt A person is slicing onions.
+()
+
+# ::snt A girl is coming up on a car.
+()
+
+# ::snt A man is playing drums.
+()
+
+# ::snt Someone is slicing a onion.
+()
+
+# ::snt A woman is dicing some peeled potatoes cut into thick strips.
+()
+
+# ::snt A little girl peddling a scooter.
+()
+
+# ::snt A cat cleans itself.
+()
+
+# ::snt A man is kicking a soccer ball.
+()
+
+# ::snt A woman opens a window.
+()
+
+# ::snt Three men are doing same dance in the street.
+()
+
+# ::snt The man is playing the guitar.
+()
+
+# ::snt A man is dancing.
+()
+
+# ::snt A woman is exercising.
+()
+
+# ::snt A boy is playing the violin onstage.
+()
+
+# ::snt The woman is measuring the other woman.
+()
+
+# ::snt A man is doing exercise.
+()
+
+# ::snt A dog is playing with a toy.
+()
+
+# ::snt A man is playing a piano.
+()
+
+# ::snt A man is bowling.
+()
+
+# ::snt A woman is dancing near a fire.
+()
+
+# ::snt A man is making a bed.
+()
+
+# ::snt A person is riding a motorcyle.
+()
+
+# ::snt A man pours rice into a pot.
+()
+
+# ::snt A person is slicing some garlic.
+()
+
+# ::snt A woman is slicing ginger.
+()
+
+# ::snt Men are playing soccer.
+()
+
+# ::snt A person is scrubbing a zucchini.
+()
+
+# ::snt A panda bear is chewing on a stick.
+()
+
+# ::snt The people are lifting bags.
+()
+
+# ::snt A man is talking on the phone.
+()
+
+# ::snt A woman is braiding her hair.
+()
+
+# ::snt The man is throwing knives at a tree.
+()
+
+# ::snt The woman is slicing tofu.
+()
+
+# ::snt A woman is folding paper.
+()
+
+# ::snt Someone is folding a piece of paper.
+()
+
+# ::snt A man is lifting weights.
+()
+
+# ::snt A man is playing a cello.
+()
+
+# ::snt The man is talking.
+()
+
+# ::snt A man tries to feed a mouse to a snake.
+()
+
+# ::snt A man is playing the drums.
+()
+
+# ::snt A man is playing a ukulele.
+()
+
+# ::snt A kitten is drinking milk from a bowl.
+()
+
+# ::snt A man breaks cinder blocks on another man.
+()
+
+# ::snt A man is hitting a boy with flower vase.
+()
+
+# ::snt The man is mixing whipping cream.
+()
+
+# ::snt A man is stirring juice.
+()
+
+# ::snt Someone is slicing two uncooked racks of ribs apart.
+()
+
+# ::snt A man is kicking pots of water.
+()
+
+# ::snt Two little girls talk on the telephone.
+()
+
+# ::snt A cat gets stuck on a moving ceiling fan.
+()
+
+# ::snt The cat is drinking milk.
+()
+
+# ::snt Rocky and Apollo Creed are running down the beach.
+()
+
+# ::snt A man is singing while playing the guitar.
+()
+
+# ::snt A boat sails along the water.
+()
+
+# ::snt An okapi is eating from a tree.
+()
+
+# ::snt Several kids jump up and down on a trampoline.
+()
+
+# ::snt A woman is pouring egg into a frying pan.
+()
+
+# ::snt A woman is frying ground meat.
+()
+
+# ::snt Three boys in karate costumes are fighting.
+()
+
+# ::snt Swimmers are racing in a lake.
+()
+
+# ::snt A person is boiling noodles.
+()
+
+# ::snt A person is slicing some onions.
+()
+
+# ::snt A man reels in a fish.
+()
+
+# ::snt A woman is cutting an onion.
+()
+
+# ::snt A lady mixed up a meat mixture in bowl.
+()
+
+# ::snt A girl is applying makeup on her face.
+()
+
+# ::snt A woman puts make-up on.
+()
+
+# ::snt A cat plays in his water.
+()
+
+# ::snt A person is adding food in a pan.
+()
+
+# ::snt A man is smoking.
+()
+
+# ::snt A person is putting shredded cheese in a pot.
+()
+
+# ::snt A man is erasing a chalk board.
+()
+
+# ::snt The man is exercising.
+()
+
+# ::snt A chimp is kicking a target.
+()
+
+# ::snt A man is doing exercise.
+()
+
+# ::snt The girl is carrying a baby.
+()
+
+# ::snt Several swimmers jump into the water.
+()
+
+# ::snt A man spins on a surf board.
+()
+
+# ::snt A young man is riding a skateboard and jumps onto a sidewalk then off at another curb.
+()
+
+# ::snt A person dices up an orange pepper.
+()
+
+# ::snt Two men are dancing together.
+()
+
+# ::snt A man is reading an email.
+()
+
+# ::snt The curious boys look in the shed.
+()
+
+# ::snt A moped in front of steps of ruins.
+()
+
+# ::snt A man sleeps with a baby in his lap.
+()
+
+# ::snt Two cats are looking at a window.
+()
+
+# ::snt A person wearing a helmet rides a bike near a white structure.
+()
+
+# ::snt A man with a bicycle at a coffee house.
+()
+
+# ::snt A black and white cat is high up on tree branches.
+()
+
+# ::snt A young blonde girl wearing a helmet sits with a red bicycle behind her.
+()
+
+# ::snt Blue couch and twin bed in a living room.
+()
+
+# ::snt The flock of sheep are spread out in the field.
+()
+
+# ::snt Two dogs and one cat sitting on couch.
+()
+
+# ::snt A bicycle is parked by a shop.
+()
+
+# ::snt A orange and white cat laying on a blanket in a black leather chair.
+()
+
+# ::snt Young couple sitting on a black couch.
+()
+
+# ::snt A group of black people in front of a building with a moped.
+()
+
+# ::snt Elderly woman sitting on red patterned couch with her arm around younger woman.
+()
+
+# ::snt A man riding on the back of an orange SUV.
+()
+
+# ::snt Red and white bus driving down road.
+()
+
+# ::snt A cat laying on a red cushion looking at the camera.
+()
+
+# ::snt Two green and white trains sitting on the tracks.
+()
+
+# ::snt A grey cat lying on a wooden table.
+()
+
+# ::snt A man sitting in a back yard playing the guitar.
+()
+
+# ::snt A father napping in a chair with a baby on his lap.
+()
+
+# ::snt a close up head of an ostrich.
+()
+
+# ::snt Green and white bird perched on tree branch.
+()
+
+# ::snt A man in a top hat rides a white horse.
+()
+
+# ::snt A woman riding a brown horse.
+()
+
+# ::snt Two men standing in grass staring at a car.
+()
+
+# ::snt Two Indian women with two Indian girls near the water.
+()
+
+# ::snt A table is set with wine and dishes for two people.
+()
+
+# ::snt A moped in front of ruins.
+()
+
+# ::snt A person driving a cart pulled by a bicycle.
+()
+
+# ::snt A dog sniffing the bottom of a door.
+()
+
+# ::snt a small bird sitting on a branch in winter.
+()
+
+# ::snt A yellow bird is eating fruit on a wire grate.
+()
+
+# ::snt A brown duck and white duck stand on the grass.
+()
+
+# ::snt A black and white cat and dog on a striped couch.
+()
+
+# ::snt A man wearing black formal wear & a black top hat is riding a white show horse.
+()
+
+# ::snt A small brown birds is eating from a bird feeder hanging from a tree.
+()
+
+# ::snt This a picture of the countryside with a large city in the background.
+()
+
+# ::snt Blue and red plane in mid-air flight.
+()
+
+# ::snt Three men posing in a tent.
+()
+
+# ::snt A close-up of a gray cat with green eyes.
+()
+
+# ::snt A train is at a train station.
+()
+
+# ::snt The train heads down the tracks and along the hedge.
+()
+
+# ::snt a little girl is laughing at the camera.
+()
+
+# ::snt Three young women standing in a room together.
+()
+
+# ::snt A white bird with long orange legs standing by a lake.
+()
+
+# ::snt A red train driving through a snow covered city.
+()
+
+# ::snt Three bicyclists crossing a bridge in a city.
+()
+
+# ::snt A red and white bus drives down an England street.
+()
+
+# ::snt The birds are swimming in the water.
+()
+
+# ::snt A black dog looking at the camera.
+()
+
+# ::snt A group of horses grazing in a field.
+()
+
+# ::snt Several people on motorcycles in a market square.
+()
+
+# ::snt Three sheep on a dirt road viewed from a passenger vehicle.
+()
+
+# ::snt Group of people posing with two men dressed as Elvis.
+()
+
+# ::snt Parrot pushing a small shopping cart.
+()
+
+# ::snt Man in yellow canoe paddling through water.
+()
+
+# ::snt Beer bottles (-LRB- Harp Lager )-RRB- lined up on the floor.
+()
+
+# ::snt Two women sitting outside laughing.
+()
+
+# ::snt A steam engine and train moving toward the camera.
+()
+
+# ::snt A brown and white cow in a field looking into the camera.
+()
+
+# ::snt Black and white cow standing near pile of snow.
+()
+
+# ::snt Home office space with bright green walls and artwork.
+()
+
+# ::snt A black and white photo of a man driving a car and someone with a motorcycle.
+()
+
+# ::snt Three people are by the water with yellow canoes.
+()
+
+# ::snt A girl in a riding hat on a horse.
+()
+
+# ::snt A man dressed in a pale scarf with a stick.
+()
+
+# ::snt A very retro living room with a television in it.
+()
+
+# ::snt A girl in a riding hat on a horse.
+()
+
+# ::snt A car is pulling off the side of the road onto the street.
+()
+
+# ::snt The man is sitting cross legged wearing a cloak and holding a stick.
+()
+
+# ::snt Two black and white dogs at the bottom of stairs.
+()
+
+# ::snt An old fashioned wooden sailing ship in the ocean.
+()
+
+# ::snt A man sitting cross legged on the grass, with a tree in the background.
+()
+
+# ::snt Two cats sitting on a couch looking out the window.
+()
+
+# ::snt Three goats are being rounded up by a dog.
+()
+
+# ::snt A tan puppy on a carpeted floor.
+()
+
+# ::snt A black dog standing in a grassy area.
+()
+
+# ::snt Train in a station.
+()
+
+# ::snt A blue bird standing on a lawn.
+()
+
+# ::snt An empty office cubicle.
+()
+
+# ::snt A man and woman sit at a table in a restaurant.
+()
+
+# ::snt A young man wearing a striped shirt is holding two bicycles.
+()
+
+# ::snt A television, upholstered chair, and coffee stable in a bright room.
+()
+
+# ::snt Two cats sitting on a couch looking out the window.
+()
+
+# ::snt The small dog is wearing a sweater and looking up at the camera.
+()
+
+# ::snt Two men standing in grass staring at a car.
+()
+
+# ::snt A woman stands in front of a building in the snow.
+()
+
+# ::snt Home office space with bright green walls and artwork.
+()
+
+# ::snt A green car parked at a saloon.
+()
+
+# ::snt Group of people sitting around a restaurant dining table.
+()
+
+# ::snt Two ducks are standing by the water.
+()
+
+# ::snt A black and white cow in a pen with hay.
+()
+
+# ::snt A man and woman are posing for the camera.
+()
+
+# ::snt A green and white cargo plane taking of from an airport.
+()
+
+# ::snt A yellow school bus parked in a field.
+()
+
+# ::snt An elderly man works on his laptop at home.
+()
+
+# ::snt The cat is sitting on a bag of cat food.
+()
+
+# ::snt A large pile of wooden items piled high.
+()
+
+# ::snt A woman riding a brown horse.
+()
+
+# ::snt Black and white photo of a girl on a sofa.
+()
+
+# ::snt A black dog stands next to materials at a construction site.
+()
+
+# ::snt Two women sitting in chairs in a shop.
+()
+
+# ::snt A women painting a chair with a dining room in the background.
+()
+
+# ::snt A cat sleeping on the coach with a pillow behind it.
+()
+
+# ::snt Two motorbikes racing on a dirt course.
+()
+
+# ::snt A young woman is riding a Bay hose in a dirt riding-ring.
+()
+
+# ::snt A gray cat laying on a brown table.
+()
+
+# ::snt Motorcycle parked next to a car outside.
+()
+
+# ::snt A pile of used wooden building materials with a chair on top.
+()
+
+# ::snt A passenger train waiting at the city train station.
+()
+
+# ::snt A black train moves down the tracks.
+()
+
+# ::snt A Philips flat-screen TV is shown with its two remote controls.
+()
+
+# ::snt A cruise ship is in front of a docking area.
+()
+
+# ::snt A black and white cow standing in hay looks back at the camera.
+()
+
+# ::snt Four people rowing down a river.
+()
+
+# ::snt A dark brown horse standing in a field.
+()
+
+# ::snt Two men talking in front of a plane.
+()
+
+# ::snt two cats, one brown and one white laying on a bed with a blue blanket.
+()
+
+# ::snt The train sits at the train station.
+()
+
+# ::snt Two animals sitting on a rock.
+()
+
+# ::snt A black and white cow looking through the fence.
+()
+
+# ::snt Two women in a clothing store.
+()
+
+# ::snt Older gentleman looking at red motorcycle.
+()
+
+# ::snt Black and white cows grazing in a pen.
+()
+
+# ::snt A small camouflaged airplane parked in the grass.
+()
+
+# ::snt A black and white photo of a love seat.
+()
+
+# ::snt Black bird standing on concrete.
+()
+
+# ::snt Crowd of people walking past a giant mushroom.
+()
+
+# ::snt A sheep beside a road and a lake.
+()
+
+# ::snt A group of people sit at a table in an Italian restaurant.
+()
+
+# ::snt Tan cows look closely at the camera.
+()
+
+# ::snt Older woman holding newborn baby.
+()
+
+# ::snt Two dogs play in the grass.
+()
+
+# ::snt Three people sit at a picnic table outside of a building painted like a union jack.
+()
+
+# ::snt A dog swims through the water.
+()
+
+# ::snt A young laughing girl and a boy are playing on a big drum.
+()
+
+# ::snt The brown dog runs on the snow with a white ball in his mouth.
+()
+
+# ::snt A bird flies across the water.
+()
+
+# ::snt A dog is running through a pond
+()
+
+# ::snt A man and a woman watch two dogs.
+()
+
+# ::snt A man sits by a dock looking at the water.
+()
+
+# ::snt A brown and white dog is running through the snow.
+()
+
+# ::snt A man and a woman are standing in front of a building
+()
+
+# ::snt Three dolphins are jumping out of a pool in front of a crowd of people.
+()
+
+# ::snt The dog is running through a field.
+()
+
+# ::snt A black and white dog is jumping into the water.
+()
+
+# ::snt A tan and white dog retrieving a ball on a gravel path.
+()
+
+# ::snt A brown and white dog is walking up snowy steps.
+()
+
+# ::snt A woman in a black and orange jacket throws a stick for a brown and black dog to fetch.
+()
+
+# ::snt A dog running across the snow with a snowball in it's mouth.
+()
+
+# ::snt A small boy is building with some wooden blocks.
+()
+
+# ::snt A man and a woman walk with a white dog on a leash.
+()
+
+# ::snt A young boy wearing a red winter coat is eating and holding up a candy bar.
+()
+
+# ::snt Two racing dogs run in the mud.
+()
+
+# ::snt A young boy jumping into a pool that says "no diving".
+()
+
+# ::snt Three dogs running in the dirt.
+()
+
+# ::snt Four children on stools in a diner.
+()
+
+# ::snt Boy and white dog running in grassy field
+()
+
+# ::snt Two boys playing a game of flag football.
+()
+
+# ::snt The black and white dog has its mouth wide open.
+()
+
+# ::snt One white boy and one black boy stand with arms around each other.
+()
+
+# ::snt Girl playing in a puddle with her bare feet.
+()
+
+# ::snt Two children splashing in the water.
+()
+
+# ::snt A man in a suit dances with a young girl in front of an audience.
+()
+
+# ::snt Three children playing on a floor with toys.
+()
+
+# ::snt The two dogs are playing in the yard.
+()
+
+# ::snt The # 2 greyhound dog is running around a track.
+()
+
+# ::snt four children are playing on a trampoline.
+()
+
+# ::snt A black and tan dog standing in a field near trees
+()
+
+# ::snt A black dog running into the water.
+()
+
+# ::snt a man and woman walking past a record shop
+()
+
+# ::snt Two dogs play in the grass.
+()
+
+# ::snt Three children wrestle on a floral carpet.
+()
+
+# ::snt A boy in red jumping into a sandbox.
+()
+
+# ::snt a dog jumps into the water.
+()
+
+# ::snt A wet, blond dog carries a stick on the shore.
+()
+
+# ::snt A man and a dog on rocks on a beach.
+()
+
+# ::snt Large group of people standing outside of a building.
+()
+
+# ::snt Two dogs are running in the field.
+()
+
+# ::snt Two people are in bed.
+()
+
+# ::snt A light brown dog runs down a path happily.
+()
+
+# ::snt A red haired women in black is posing for a man while resting on a tree.
+()
+
+# ::snt Two black dogs are jumping and playing with a yellow tennis ball in the snow.
+()
+
+# ::snt A black and white dog is jumping over a hurdle.
+()
+
+# ::snt Two brown dogs runs through the water.
+()
+
+# ::snt A black dog is jumping out of water.
+()
+
+# ::snt A man climbing a rock-face.
+()
+
+# ::snt Woman playing tennis and hitting the ball.
+()
+
+# ::snt A young boy with his hair standing up, is sliding down a blue slide
+()
+
+# ::snt A dog standing in the water.
+()
+
+# ::snt A surfer is riding on a breaking wave.
+()
+
+# ::snt Two dogs are running through the grass near a house and trees.
+()
+
+# ::snt A brown and white dog is running across a brown field.
+()
+
+# ::snt A black dog standing in the grass near a volleyball.
+()
+
+# ::snt A white dog with light brown markings has a stick in his mouth and his paws in the snow.
+()
+
+# ::snt A man in a wet suit is throwing a baby wearing a wet suit up into the air.
+()
+
+# ::snt A black and white dog is running through the grass.
+()
+
+# ::snt A harnessed dog leaps over a log as another dog follows behind.
+()
+
+# ::snt A dog running on the grass
+()
+
+# ::snt Many football players sitting on the ground.
+()
+
+# ::snt A little boy and a little girl playing together outside.
+()
+
+# ::snt The surfer does a flip off of a wave.
+()
+
+# ::snt A female DJ holds up a Michael Jackson album.
+()
+
+# ::snt two white standard poodles play with a toy in the snow
+()
+
+# ::snt Boy lies on stomach in grass.
+()
+
+# ::snt A white dog runs along a rocky shoreline.
+()
+
+# ::snt a black and white dog jumping in the air to catch a Frisbee
+()
+
+# ::snt The woman is holding the harness that the brown and white dog is wearing.
+()
+
+# ::snt A girl is jumping.
+()
+
+# ::snt A young pitcher is throwing the baseball.
+()
+
+# ::snt Three children playing in snow.
+()
+
+# ::snt Two people ride their bikes down a dirt road.
+()
+
+# ::snt A brown dog is running through the field.
+()
+
+# ::snt A dog is standing in the sand.
+()
+
+# ::snt Four girls in swimsuits are playing volleyball at the beach.
+()
+
+# ::snt A blonde haired toddler swinging on a tire swing.
+()
+
+# ::snt A child wearing blue and white shorts is jumping in the surf.
+()
+
+# ::snt Two dogs running on the shore.
+()
+
+# ::snt A yellow car speeds along a snowy field.
+()
+
+# ::snt Two dogs playing in snow.
+()
+
+# ::snt One boy is pushing another boy on a swing.
+()
+
+# ::snt A pitcher on a mound throws a baseball.
+()
+
+# ::snt A little girl is riding a toy tricycle on springs.
+()
+
+# ::snt A woman is sitting in the water.
+()
+
+# ::snt A tan girl in a floral bikini is swimming in dark blue waters.
+()
+
+# ::snt a grey dog swimming through a river with a stick in his mouth
+()
+
+# ::snt A woman in a blue bathing suit is jumping off a dock into a lake.
+()
+
+# ::snt Two black dogs are playing on the grass.
+()
+
+# ::snt Two puppies playing with a plastic bag.
+()
+
+# ::snt A man in a black suit is surfing along a crashing wave.
+()
+
+# ::snt Three little girls are sitting on the grass.
+()
+
+# ::snt A brown dog runs towards the camera on a dirt trail with mountains in the background.
+()
+
+# ::snt Dog is jumping down a ramp.
+()
+
+# ::snt The dog plays in the park.
+()
+
+# ::snt Four dogs stand in the snow.
+()
+
+# ::snt Brown and black dogs on snow, showing teeth and barking at each other.
+()
+
+# ::snt A man running on a track.
+()
+
+# ::snt A light-colored dog runs through the grass.
+()
+
+# ::snt Child holding an object that is on fire.
+()
+
+# ::snt A small white dog climbs over a log.
+()
+
+# ::snt The dogs play in the snow on hind legs.
+()
+
+# ::snt A boy skateboards down the railing of some graffiti stairs
+()
+
+# ::snt A black and white dog runs through the water.
+()
+
+# ::snt A girl is running on a desert path.
+()
+
+# ::snt A man steers a blue boat past brightly colored houses.
+()
+
+# ::snt A woman wearing large sunglasses holds newspapers in both hands.
+()
+
+# ::snt A deer jumps a fence.
+()
+
+# ::snt A person is on a baseball team.
+()
+
+# ::snt A bike is next to a couple women.
+()
+
+# ::snt The group is eating while taking in a breathtaking view.
+()
+
+# ::snt The boy is raising his hand.
+()
+
+# ::snt A man with a gray beard is being shaved in front of a lecture hall
+()
+
+# ::snt A young person  deep in thought.
+()
+
+# ::snt A man is performing labor.
+()
+
+# ::snt Two men wearing traditional clothing is standing outside.
+()
+
+# ::snt a man wearing a gray hat fishing out of a fishing boat.
+()
+
+# ::snt A little girl in an orange striped outfit is airborne whilst bouncing on a bed.
+()
+
+# ::snt A person is watching people ski down the hill.
+()
+
+# ::snt The yard has a dog.
+()
+
+# ::snt Three women cook.
+()
+
+# ::snt The woman is kneeling next to a cat.
+()
+
+# ::snt Three guys playing a pro game of basketball.
+()
+
+# ::snt The boys are earning their next belt in karate.
+()
+
+# ::snt A woman is digging in the sand.
+()
+
+# ::snt A woman drives a golf cart.
+()
+
+# ::snt A person filming the outdoors.
+()
+
+# ::snt A human riding a skateboard.
+()
+
+# ::snt A woman in a plaid outfit is looking through a bag of produce.
+()
+
+# ::snt The tennis player hit the ball into outer space and broke the death star.
+()
+
+# ::snt A boy climbs a forest hill.
+()
+
+# ::snt Blond boy jumping onto deck.
+()
+
+# ::snt A man uses a chainsaw to sculpt a phallic ice sculpture.
+()
+
+# ::snt A group of male construction workers repair railroad tracks on a cloudy day
+()
+
+# ::snt The girl has something on her head.
+()
+
+# ::snt People making a structure out of cards.
+()
+
+# ::snt There are four people outside.
+()
+
+# ::snt Girls are holding hands in blue clothes
+()
+
+# ::snt A man is demonstrating how to work with clay while at least two people observe.
+()
+
+# ::snt A dog has a sweater on.
+()
+
+# ::snt Sculptor applying concrete to large statue of human figure standing with no head.
+()
+
+# ::snt A boy with dark hair is in water and is looking up.
+()
+
+# ::snt A pole is behind a person that is playing peekaboo with a child.
+()
+
+# ::snt A woman is about to paint.
+()
+
+# ::snt a man working at the steel mill
+()
+
+# ::snt The young woman is flirting with the young boy.
+()
+
+# ::snt the men are about to score in a water polo tournament
+()
+
+# ::snt A man eats popcorn while watching cartoons late one night.
+()
+
+# ::snt Three men sit on a bench.
+()
+
+# ::snt The road is long.
+()
+
+# ::snt a young man wearing a white t-shirt and green and black shorts standing on a stump.
+()
+
+# ::snt A dog under the stairs
+()
+
+# ::snt Two women give a demonstration at a Renaissance Fair.
+()
+
+# ::snt Some guy sitting on a couch watching television.
+()
+
+# ::snt A woman is posing for a Christmas card.
+()
+
+# ::snt A man is working on his farm.
+()
+
+# ::snt A girl is talking to her dad on a cellphone.
+()
+
+# ::snt One person wields an umbrella.
+()
+
+# ::snt A group of teenagers jumping and having a good time.
+()
+
+# ::snt A man is playing his guitar at Joe's Cafe.
+()
+
+# ::snt Someone is on a blanket.
+()
+
+# ::snt The man has a orange shirt.
+()
+
+# ::snt The two kids look at the products sold inside the subway shop.
+()
+
+# ::snt The baby boy wants his mother.
+()
+
+# ::snt A boy is very close to a girl.
+()
+
+# ::snt Six children are cleaning a room.
+()
+
+# ::snt There is a cook preparing food.
+()
+
+# ::snt Two men are helping a boy.
+()
+
+# ::snt Two skiing people are doing cross country skiing.
+()
+
+# ::snt A dog taking a poop in the street.
+()
+
+# ::snt A kid is talking in class.
+()
+
+# ::snt The women are trying to sell something to the individual.
+()
+
+# ::snt People are waiting for the fireworks to start.
+()
+
+# ::snt A dog prepares to herd three sheep with horns.
+()
+
+# ::snt People gathered in a room.
+()
+
+# ::snt The woman in overalls paints a picture for her wall.
+()
+
+# ::snt Adding aspirin to the water could kill the plant.
+()
+
+# ::snt The woman is wearing yellow.
+()
+
+# ::snt A man is doing a stunt on his bicycle.
+()
+
+# ::snt Ten people riding ATVs.
+()
+
+# ::snt A yellow vested person is doing road work.
+()
+
+# ::snt Two workers are sitting next to pipes eating lunch
+()
+
+# ::snt A group of people living in the desert
+()
+
+# ::snt Two kids are swimming.
+()
+
+# ::snt people getting their dirty clothes cleaned
+()
+
+# ::snt The children are holding musical instruments.
+()
+
+# ::snt A group of people are wearing police uniforms conducting an arrest.
+()
+
+# ::snt the man is planning to shoot a wedding
+()
+
+# ::snt The child's bike got wet.
+()
+
+# ::snt A soldier walks a dog.
+()
+
+# ::snt A shirtless woman is operating a lawn mower.
+()
+
+# ::snt The two officers are driving
+()
+
+# ::snt The lady looks sad because no one is buying her wares.
+()
+
+# ::snt A flock of birds hovered over the sandy beach.
+()
+
+# ::snt people walk home
+()
+
+# ::snt A man is laughing with a woman
+()
+
+# ::snt He is about to run into the boat
+()
+
+# ::snt 2 Cows are in a field.
+()
+
+# ::snt A wet child enjoys the summer.
+()
+
+# ::snt The girl has a driver's license
+()
+
+# ::snt People on motorcycles wearing racing gear ride around a racetrack
+()
+
+# ::snt A man is standing on the ground with a paintbrush
+()
+
+# ::snt The kids are at the theater watching a movie.
+()
+
+# ::snt Two women walk down the sidewalk to the store.
+()
+
+# ::snt A man has his son on his back
+()
+
+# ::snt A group of dark-skinned people are walking past barbed wire.
+()
+
+# ::snt Zombies parading around eating brains.
+()
+
+# ::snt A group of people are sitting at at a beach on towels watching the Blue Angels.
+()
+
+# ::snt Three people are meeting for coffee.
+()
+
+# ::snt A young girl with dirt on her face and a red child's bike is in the background.
+()
+
+# ::snt A line of scooters are parking in the middle of a street.
+()
+
+# ::snt A man holding a cat.
+()
+
+# ::snt The cats are running through the grass.
+()
+
+# ::snt The two boys are playing kick ball back and forth to each other.
+()
+
+# ::snt Two girls are running.
+()
+
+# ::snt A little girl in a white blouse and blue pants frolics on the grass.
+()
+
+# ::snt A man in a white shirt and hat playing a guitar.
+()
+
+# ::snt A black hooded man is using a large magnifying glass to look at a booklet.
+()
+
+# ::snt the people are running a marathon
+()
+
+# ::snt A group of people are nervous about crossing the water.
+()
+
+# ::snt A group of kids are having a jumping contest.
+()
+
+# ::snt The person is wearing a fedora.
+()
+
+# ::snt A woman and a man embrace while watching a horror movie.
+()
+
+# ::snt A man in a blue dress shirt.
+()
+
+# ::snt A couple is playing the game of Life.
+()
+
+# ::snt The head of a child with dark glasses is in focus.
+()
+
+# ::snt A maintenance guy is repairing a net on a tennis court.
+()
+
+# ::snt A kid sits on a soccer ball outside.
+()
+
+# ::snt A man in a brown coat rubs his nose.
+()
+
+# ::snt The dog is chasing the geese.
+()
+
+# ::snt Small child playing with letter P
+()
+
+# ::snt A brown dog is jumping.
+()
+
+# ::snt A group of teenagers in red shirts are smiling.
+()
+
+# ::snt I remained under the banyan tree, exhausted by my daily ritual of dragooning the men every two hours. 
+()
+
+# ::snt In the US, it will depend on the school.
+()
+
+# ::snt There's also what the string is made of.
+()
+
+# ::snt You also imply you may not be paid if they cannot place you with a client.
+()
+
+# ::snt I did this one time as well.
+()
+
+# ::snt You just have to base your answer on what you do know, which is what you want.
+()
+
+# ::snt You do not need to worry.
+()
+
+# ::snt You should do it.
+()
+
+# ::snt You should just ask your boss what he wants you to do.
+()
+
+# ::snt You need to read a lot to know what you like and what you don't.
+()
+
+# ::snt It depends on what you want to have in your tank.
+()
+
+# ::snt You can do it, too.
+()
+
+# ::snt You should do it.
+()
+
+# ::snt You have to decide what you want to get out of this.
+()
+
+# ::snt I have few suggestions for you:
+()
+
+# ::snt You want to start in the room that is the largest to make sure you have the straightest start.
+()
+
+# ::snt if you don't want to derail the meeting, but the key is to speak up.
+()
+
+# ::snt Unfortunately the answer to your question is we simply do not know.
+()
+
+# ::snt As soon as possible.
+()
+
+# ::snt You just have to base your answer on what you do know, which is what you want.
+()
+
+# ::snt The answer to both questions is: Yes.
+()
+
+# ::snt To give this an answer:
+()
+
+# ::snt Unfortunately the answer to your question is we simply do not know.
+()
+
+# ::snt The rule - When in doubt throw it out!
+()
+
+# ::snt This is not a good idea.
+()
+
+# ::snt Yes, it's probably a good idea to renew your passport.
+()
+
+# ::snt It probably depends on the cut of meat.
+()
+
+# ::snt It's not a good idea.
+()
+
+# ::snt It's pretty much up to you.
+()
+
+# ::snt Yes, there is a reason for it.
+()
+
+# ::snt Have you tried asking your employees?
+()
+
+# ::snt You guys are making this all WAAAAAY too complicated.
+()
+
+# ::snt You don't have to know.
+()
+
+# ::snt There are two things to consider:
+()
+
+# ::snt Work into it slowly.
+()
+
+# ::snt You can buy it on amazon for $5.
+()
+
+# ::snt The coffee simply picks up the aluminum from the pot, as the coffee is acidic.
+()
+
+# ::snt There are two ways to start with: plunging and dripping.
+()
+
+# ::snt You might have to try a variety before you find one that clicks with him.
+()
+
+# ::snt It's not a good idea.
+()
+
+# ::snt You just have to base your answer on what you do know, which is what you want.
+()
+
+# ::snt Yes, you should mention your experience.
+()
+
+# ::snt From what I understand this is what you can do :
+()
+
+# ::snt Take a look at these:
+()
+
+# ::snt I'd say it primarily depends on two things:
+()
+
+# ::snt Some of what you can do:
+()
+
+# ::snt This is not a good idea.
+()
+
+# ::snt The answers so far are already good, but I'd like to add a map for Switzerland:
+()
+
+# ::snt I was in a similar situation.
+()
+
+# ::snt I've had this same problem.
+()
+
+# ::snt There is no maximum.
+()
+
+# ::snt I am not sure this is the right site for the question.
+()
+
+# ::snt It depends on what you want to do next, and where you want to do it.
+()
+
+# ::snt You need to read a lot to know what you like and what you don't.
+()
+
+# ::snt You are not disclosing key info.
+()
+
+# ::snt It depends on what you want to do next, and where you want to do it.
+()
+
+# ::snt You just have to base your answer on what you do know, which is what you want.
+()
+
+# ::snt It depends on what you want to do next, and where you want to do it.
+()
+
+# ::snt This is a problem that the professor has to deal with.
+()
+
+# ::snt This is a very unusual request.
+()
+
+# ::snt It very much depends on the grant in question.
+()
+
+# ::snt I have the same thing.
+()
+
+# ::snt No it does not affect your ratings.
+()
+
+# ::snt My answer to your question is "Probably Not".
+()
+
+# ::snt I don't think it makes any tremendous difference.
+()
+
+# ::snt It depends on what they are.
+()
+
+# ::snt There's not a lot you can do about that.
+()
+
+# ::snt You answered your own question.
+()
+
+# ::snt You just have to base your answer on what you do know, which is what you want.
+()
+
+# ::snt This is not a good idea.
+()
+
+# ::snt The best thing you can do is to know your stuff.
+()
+
+# ::snt I'd say it primarily depends on two things:
+()
+
+# ::snt You don't have to know.
+()
+
+# ::snt I have the same thing.
+()
+
+# ::snt It's not a good idea.
+()
+
+# ::snt You are on the right path.
+()
+
+# ::snt This doesn't answer your question, but:
+()
+
+# ::snt How should I proceed about this?
+()
+
+# ::snt Does this page answer your question?
+()
+
+# ::snt You can use it, too.
+()
+
+# ::snt It really depends on how the employer documents it.
+()
+
+# ::snt I've had this same problem.
+()
+
+# ::snt You need to read a lot to know what you like and what you don't.
+()
+
+# ::snt It depends on what you want to do next, and where you want to do it.
+()
+
+# ::snt Yes, you have to file a tax return in Canada.
+()
+
+# ::snt I don't see why there should be any problem with this whatsoever.
+()
+
+# ::snt Hope this is what you are looking for.
+()
+
+# ::snt The best thing you can do is to know your stuff.
+()
+
+# ::snt It depends on the dish and how amenable it is at the stage you make the mistake.
+()
+
+# ::snt You just have to base your answer on what you do know, which is what you want.
+()
+
+# ::snt You PROBABLY don't have any chance at the moment.
+()
+
+# ::snt It really doesn't matter.
+()
+
+# ::snt You don't need to know everything.
+()
+
+# ::snt I think you're looking for Mikey (1992).
+()
+
+# ::snt It makes absolutely NO difference.
+()
+
+# ::snt I think it's fine to ask this question.
+()
+
+# ::snt I'm going to be very direct here.
+()
+
+# ::snt You just have to base your answer on what you do know, which is what you want.
+()
+
+# ::snt You should do it.
+()
+
+# ::snt There's not a lot you can do about that.
+()
+
+# ::snt What kind of insulation is it?
+()
+
+# ::snt It depends entirely on your company and your contract.
+()
+
+# ::snt You answered your own question.
+()
+
+# ::snt I don't think that there's any.
+()
+
+# ::snt There are a few things you can do: 
+()
+
+# ::snt This is the tip I find most useful:
+()
+
+# ::snt That's what I believe.
+()
+
+# ::snt If you are not sure how to do it, don't do it at all.
+()
+
+# ::snt It's all in her head.
+()
+
+# ::snt If you are not sure how to do it, don't do it at all.
+()
+
+# ::snt You need to read a lot to know what you like and what you don't.
+()
+
+# ::snt I would say you can do it, but it wouldn't be advised.
+()
+
+# ::snt Can you do this?
+()
+
+# ::snt Sure, I've  done this very trip.
+()
+
+# ::snt You can use it, too.
+()
+
+# ::snt How do you do that?
+()
+
+# ::snt I've located an article that might be of some help: http://www.dsattorney.com/qa-pseudonyms-in-contracts/
+()
+
+# ::snt I would say you can do it, but it wouldn't be advised.
+()
+
+# ::snt Unfortunately the answer to your question is we simply do not know.
+()
+
+# ::snt If you are not sure how to do it, don't do it at all.
+()
+
+# ::snt It's also a matter of taste.
+()
+
+# ::snt It's not a good idea.
+()
+
+# ::snt This answer is based on my experience teaching undergraduate math in the US.
+()
+
+# ::snt There are a few things I think you should do.
+()
+
+# ::snt You will want to clean the area first.
+()
+
+# ::snt It depends on what you want to have in your tank.
+()
+
+# ::snt There are a couple of options that you could consider:
+()
+
+# ::snt You don't have to worry.
+()
+
+# ::snt Vietnamese citizens need a visa to visit the USA.
+()
+
+# ::snt It depends on how it's used.
+()
+
+# ::snt I don't see why there should be any problem with this whatsoever.
+()
+
+# ::snt There's not a lot you can do about that.
+()
+
+# ::snt You got it right.
+()
+
+# ::snt You just have to base your answer on what you do know, which is what you want.
+()
+
+# ::snt How do you do that?
+()
+
+# ::snt I was in a similar situation.
+()
+
+# ::snt What is your lid made of?
+()
+
+# ::snt You don't need any visa.
+()
+
+# ::snt That is your problem, not your supervisor's.
+()
+
+# ::snt It depends on what you want to do next, and where you want to do it.
+()
+
+# ::snt There are two things to consider:
+()
+
+# ::snt It depends entirely on your company and your contract.
+()
+
+# ::snt The wood probably isn't rotten, it's just worn out.
+()
+
+# ::snt Well, I wouldn't put it on my cv.
+()
+
+# ::snt This is a great one... 
+()
+
+# ::snt The answer to both questions is: Yes.
+()
+
+# ::snt Yes, there is a reason to not do what you propose.
+()
+
+# ::snt I think it is depends on the program.
+()
+
+# ::snt Can you do this?
+()
+
+# ::snt I think there isn't a general answer.
+()
+
+# ::snt There are a few things you can do: 
+()
+
+# ::snt The key is you have to find something that works for you, and your goals.
+()
+
+# ::snt You don't have to know.
+()
+
+# ::snt I think you've pretty much done your review.
+()
+
+# ::snt There are a few things I think you should do.
+()
+
+# ::snt You burn more Calories digesting protein than you do carbohydrates and fat.
+()
+
+# ::snt It depends on what you want to do next, and where you want to do it.
+()
+
+# ::snt You got it right.
+()
+
+# ::snt You answered your own question.
+()
+
+# ::snt I have the same thing.
+()
+
+# ::snt Yes, there is a chemical difference.
+()
+
+# ::snt They can be out of level by a bit, but flat is important.
+()
+
+# ::snt I would look at this: U.S.
+()
+
+# ::snt You are on the right path.
+()
+
+# ::snt If you haven't, you should.
+()
+
+# ::snt Yes it is common!
+()
+
+# ::snt I don't think that there's any.
+()
+
+# ::snt It looks to me that this is set up for what you want:
+()
+
+# ::snt Problem is, the system doesn't account for people who could care less about money, or title.
+()
+
+# ::snt In the first case, I think you don't need it.
+()
+
+# ::snt It is impossible to answer this question without a form check.
+()
+
+# ::snt You need to add this to your resume because it is the only position you have had.
+()
+
+# ::snt Work into it slowly.
+()
+
+# ::snt No, you do not NEED a bread machine.
+()
+
+# ::snt Yes, it is possible to publish a paper on model analysis.
+()
+
+# ::snt You just have to base your answer on what you do know, which is what you want.
+()
+
+# ::snt Yes, you should mention your experience.
+()
+
+# ::snt I think it is great that you had a test conducted.
+()
+
+# ::snt You don't have to know.
+()
+
+# ::snt Yes, there is a rule against this.
+()
+
+# ::snt What are your goals?
+()
+
+# ::snt I'm going to go out on a limb here...
+()
+
+# ::snt If your long stay visa for Switzerland is valid, then you will not need a transit visa.
+()
+
+# ::snt A few more point to think about:
+()
+
+# ::snt Now you don't have to be perfect on every answer.
+()
+
+# ::snt I'm afraid we are out of luck in this one.
+()
+
+# ::snt It is more deciding what you should do and what you should get others to do.
+()
+
+# ::snt It varies by the situation.
+()
+
+# ::snt I have the same thing.
+()
+
+# ::snt I have the same thing.
+()
+
+# ::snt You are on the right path.
+()
+
+# ::snt Primer/paint will not work.
+()
+
+# ::snt The best thing you can do is to know your stuff.
+()
+
+# ::snt It's also a matter of taste.
+()
+
+# ::snt I was in a similar situation.
+()
+
+# ::snt You can use it, too.
+()
+
+# ::snt You have to decide what you want to get out of this.
+()
+
+# ::snt It depends on what they are.
+()
+
+# ::snt I had the same problem as you.
+()
+
+# ::snt Sometime if you really want it you might need to pay an agency to get the place for you.
+()
+
+# ::snt You don't need to know everything.
+()
+
+# ::snt Also it is useful to keep the consistency in your story.
+()
+
+# ::snt I think it's just a habit.
+()
+
+# ::snt It's not a good idea.
+()
+
+# ::snt I'm thinking it's a bad idea. 
+()
+
+# ::snt It depends on what you want to do next, and where you want to do it.
+()
+
+# ::snt You have a problem.
+()
+
+# ::snt Unfortunately the answer to your question is we simply do not know.
+()
+
+# ::snt Unfortunately, this question cannot be answered in its full generality.
+()
+
+# ::snt I would personally beware of the Motley Fool.
+()
+
+# ::snt I think there isn't a general answer.
+()
+
+# ::snt It's not a good idea.
+()
+
+# ::snt You don't need any visa.
+()
+
+# ::snt You have to decide what you want to get out of this.
+()
+
+# ::snt I had the same problem as you.
+()
+
+# ::snt My answer to your question is "Probably Not".
+()
+
+# ::snt You should do it.
+()
+
+# ::snt I had the same problem as you.
+()
+
+# ::snt Hope this is what you are looking for.
+()
+
+# ::snt There are two things to consider:
+()
+
+# ::snt It's pretty much up to you.
+()
+
+# ::snt There are a few things you can do: 
+()
+
+# ::snt The answer to this and all such similar questions is in two stages:
+()
+
+# ::snt It is impossible to answer this question without a form check.
+()
+
+# ::snt There are a few things you can do: 
+()
+
+# ::snt It depends on what you want to do next, and where you want to do it.
+()
+
+# ::snt There are a few possible reasons.
+()
+
+# ::snt There are three options:
+()
+
+# ::snt So think it in this way.
+()
+
+# ::snt Maybe this could work for you.
+()
+
+# ::snt It depends on what you want to do next, and where you want to do it.
+()
+
+# ::snt Microwave would be your best bet.
+()
+
+# ::snt In the US, it will depend on the school.
+()
+
+# ::snt It's not a good idea.
+()
+
+# ::snt There are a few things I think you should do.
+()
+
+# ::snt I've had this same problem.
+()
+
+# ::snt This is not a good idea.
+()
+
+# ::snt I realized there is already an accepted answer but I figure I would add my 2 cents.
+()
+
+# ::snt Yes, there is a reason to not do what you propose.
+()
+
+# ::snt Yes, there is at least one to my knowledge.
+()
+
+# ::snt You don't have to worry.
+()
+
+# ::snt There is no test that can tell you if it is sealed or not.
+()
+
+# ::snt Yes, you should make a résumé.
+()
+
+# ::snt You shouldn't feel any obligation at all.
+()
+
+# ::snt I've had this same problem.
+()
+
+# ::snt You may have to experiment and find what you like.
+()
+
+# ::snt My answer to your question is "Probably Not".
+()
+
+# ::snt The key thing to realize here is that it's not your job to make people do their work.
+()
+
+# ::snt Not a direct answer to the question, but something to consider.
+()
+
+# ::snt There are two possible causes for this:
+()
+
+# ::snt I agree with the other comments.
+()
+
+# ::snt The answer to both questions is: Yes.
+()
+
+# ::snt It rather depends on which country you're in.
+()
+
+# ::snt This is a terrible idea.
+()
+
+# ::snt Vivendi shares closed 1.9 percent at 15.80 euros in Paris after falling 3.6 percent on Monday.
+()
+
+# ::snt Bremer said one initiative is to launch a US$70 million nationwide program in the next two weeks to clean up neighborhoods and build community projects.
+()
+
+# ::snt Governor Gray Davis estimated yesterday that the fires could cost nearly $2 billion.
+()
+
+# ::snt The American Express Corp. has pledged at least $3 million of more than $5 million needed.
+()
+
+# ::snt Claudette, the first hurricane of the Atlantic storm season, hit the mid-Texas coast July 15 with 85-mph wind.
+()
+
+# ::snt Results from No. 2 U.S. soft drink maker PepsiCo Inc. (nyse: PEP - news - people) were likely to be in the spotlight.
+()
+
+# ::snt Taylor's aides warn an abrupt departure could trigger more chaos, a view shared by many in Liberia and, in private, even by mediators.
+()
+
+# ::snt But Odette is the first to form over the Caribbean Sea in December, the Center said.
+()
+
+# ::snt The AFL-CIO is waiting until October to decide if it will endorse a candidate.
+()
+
+# ::snt It was developed with consultation from more than 300 leaders in academia, industry, government and the public.
+()
+
+# ::snt Local police authorities are treating the explosion as a criminal matter and nothing has been ruled out.
+()
+
+# ::snt Chiron already has nearly 20 percent acceptances from PowderJect's shareholders.
+()
+
+# ::snt "We believe we are fully prepared to roll out the [touch-screen] machines for the 2004 presidential primary," said Gilles W. Burger, State Board of Elections chairman.
+()
+
+# ::snt Analysts expected earnings of 27 cents a share on revenue of $17.7 billion, Thomson First Call says.
+()
+
+# ::snt Another was in serious condition at Northwest Medical Center in Springdale.
+()
+
+# ::snt Sean Harrigan, president of the California Public Employees' Retirement System, also suggested paring down the NYSE's 27-member board, changing its composition and making it more accountable.
+()
+
+# ::snt The Swedish central bank was also meeting on Wednesday and widely expected to announce a cut on Thursday.
+()
+
+# ::snt His 1996 Chevrolet Tahoe was found abandoned in a Virginia Beach, Va., parking lot June 25.
+()
+
+# ::snt Heatley was sixth in the league in goals last season with 41 and ninth in points with 89.
+()
+
+# ::snt "Tony's not feeling well," Spurs coach Gregg Popovich said.
+()
+
+# ::snt Electronic Data Systems Corp. Thursday said the Securities and Exchange Commission has asked the company for documents related to its large contract with the U.S. Navy.
+()
+
+# ::snt As well as the dolphin scheme, the chaos has allowed foreign companies to engage in damaging logging and fishing operations without proper monitoring or export controls.
+()
+
+# ::snt The next court session will be when the three-judge tribunal announces its verdict in mid-February.
+()
+
+# ::snt The consensus among Wall Street analysts was for a loss of 28 cents a share.
+()
+
+# ::snt The civilian unemployment rate improved marginally last month -- slipping to 6.1 percent -- even as companies slashed payrolls by 93,000.
+()
+
+# ::snt Moffitt said the results need to be replicated in another study before testing of individuals for presence of the long or short versions of the gene will be pursued.
+()
+
+# ::snt The compensation committee will prohibit securities industry directors from sitting on it.
+()
+
+# ::snt Q: Can I buy coverage for prescription drugs right away?
+()
+
+# ::snt Shares of Mandalay closed down eight cents to $29.42, before the earnings were announced.
+()
+
+# ::snt In 1999, the building's owners, the Port Authority of New York and New Jersey, issued guidelines to upgrade the fireproofing to a thickness of 1{ inches.
+()
+
+# ::snt The dollar was last at $1.1149 to the euro, close to its strongest level since April 30.
+()
+
+# ::snt The single currency rose as far as 135.13 yen , matching a record high hit shortly after the euro's launch in January 1999.
+()
+
+# ::snt A New Castle County woman has become the first Delaware patient to contract the West Nile virus this year, the state's Department of Health reported.
+()
+
+# ::snt He also reaffirmed his wish to resolve the North Korean nuclear crisis peacefully.
+()
+
+# ::snt A rebel who was captured said more than 2,000 insurgents were involved in the attack.
+()
+
+# ::snt Kyi, a U.N. envoy says, as Japan adds to growing international pressure by saying it will halt its hefty economic aid unless Suu Kyi is freed.
+()
+
+# ::snt Wal-Mart, Kohl's Corp., Family Dollar Stores Inc., and Big Lots Inc. were among the merchants posting May sales that fell below Wall Street's modest expectations.
+()
+
+# ::snt Mr Eddington warned yesterday that the future of the airline was "in the hands of the negotiators".
+()
+
+# ::snt "Both of these kids are in wonderful physical condition right now," he said during a press briefing at the hospital.
+()
+
+# ::snt On the cell's surface, the foreign components are recognised by other cells that then realise it is infected and kill it.
+()
+
+# ::snt Trading in Loral was halted yesterday; the shares closed on Monday at $3.01.
+()
+
+# ::snt Knox County Health Department is following national Centers for Disease Control and Prevention Protocol to contain infection.
+()
+
+# ::snt Schools Chancellor Joel Klein said the push for higher standards and accountability "is showing results."
+()
+
+# ::snt One witness told Anatolian he saw the plane on fire while it was still in the air.
+()
+
+# ::snt He proposed a system under which it would take fewer and fewer votes to overcome a filibuster.
+()
+
+# ::snt Hormone replacement therapy that combines estrogen and progestin doubles a woman's risk of breast cancer, a British study of more than a million women has found.
+()
+
+# ::snt Barbini's comments came Tuesday, the second day of the Ministerial Conference and Expo on Agricultural Science and Technology.
+()
+
+# ::snt Yesterday, shares closed up 29 cents, or 0.54 percent, at $54.32.
+()
+
+# ::snt Lawtey is not the first faith-based program in Florida's prison system.
+()
+
+# ::snt The transaction will grant Handspring stockholders 0.09 of a share of Palm--and no shares of PalmSource--for each share of Handspring common stock.
+()
+
+# ::snt The giant rock was first observed on August 24 by Lincoln Near-Earth Asteroid Research Program, based in Socorro, New Mexico.
+()
+
+# ::snt "We need to change old habits and seriously rethink business-as-usual."
+()
+
+# ::snt "These despicable acts were committed by killers whose only faith is hate," Bush said, adding that the United States will find the killers.
+()
+
+# ::snt There are a total of 659 women enrolled at the academy, the report said.
+()
+
+# ::snt It is a national concern that will touch virtually every American," Abraham said.
+()
+
+# ::snt In the United States, 20.7 percent of all women smoke.
+()
+
+# ::snt It has a margin of error of plus or minus 4 percentage points.
+()
+
+# ::snt Shares of MONY were gaining $2.57, or 9%, to $31.90 in after-hours trading on Instinet.
+()
+
+# ::snt Diana was at her lowest ebb when she wrote the letter to Paul Burrell claiming there was a plot to kill her.
+()
+
+# ::snt Gillespie sent a letter to CBS President Leslie Moonves asking for a historical review or a disclaimer.
+()
+
+# ::snt "Let's show we won't let them off," said Marc Blondel, leader of the Force Ouvriere union.
+()
+
+# ::snt Contrary to what PeopleSoft management would have you believe, Oracle intends to fully support PeopleSoft customers and products for many years to come."
+()
+
+# ::snt Under Mexican law, bounty hunting is considered a form of kidnapping.
+()
+
+# ::snt The announcements were made at the International Broadcasting Convention (IBC) in Amsterdam.
+()
+
+# ::snt Its keywords are supported by Chinese language Web portals.
+()
+
+# ::snt The consensus estimate of analysts polled by Thomson First Call called for a profit of $1.70 per share.
+()
+
+# ::snt Initial autopsy reports show they died of dehydration, hyperthermia and suffocation.
+()
+
+# ::snt Authorities appealed to the public Friday to come forward and provide what could be the key to solving the sniper-style shootings that have killed three people outside area convenience stores.
+()
+
+# ::snt Second comes HP (27 percent with $2.9 billion, up just 0.4 percent).
+()
+
+# ::snt U.S. forces recently apprehended some 40 suspected foreign militants near the Syrian border and are now interrogating them.
+()
+
+# ::snt That compares with a profit of $1 million, or breakeven, on $1.39 billion in revenue during the same period last year.
+()
+
+# ::snt Bolivia's army fought to stop columns of protesters from streaming into the food-starved capital on Wednesday as a popular uprising against the president spread.
+()
+
+# ::snt The A920 comes with a printer, scanner, and copier for $89.
+()
+
+# ::snt But in the first 30 seconds after Young entered the ring, the family knew it was an uneven match, Meyers said.
+()
+
+# ::snt Singapore reported no suspected SARS cases Wednesday, but officials quarantined 70 people who had contact with the Taiwanese patient.
+()
+
+# ::snt Downstream at Mount Vernon, the Skagit River was expected to crest at 36 feet -- 8 feet above flood stage -- tonight, Burke said.
+()
+
+# ::snt On Monday, the Dow declined 5.25, or 0.1 percent, at 8,983.80, having shed 2.3 percent last week.
+()
+
+# ::snt The injured were taken to hospitals in Jefferson City and Columbia, a college town about 30 miles to the north.
+()
+
+# ::snt The dollar was at 117.85 yen against the Japanese currency, up 0.1 percent.
+()
+
+# ::snt In addition to O'Connor, Rehnquist's majority opinion was joined by Justices David Souter, Ruth Bader Ginsburg, and Stephen Breyer.
+()
+
+# ::snt Martin, 58, will be freed today after serving two thirds of his five-year sentence for the manslaughter of 16-year-old Fred Barras.
+()
+
+# ::snt IDEC shareholders would own 50.5 percent of the stock of the combined company, and Biogen shareholders the remaining 49.5 percent.
+()
+
+# ::snt Nonetheless, the open-source guru insisted, "This attack was wrong, and it was dangerous to our goals."
+()
+
+# ::snt Frank Quattrone, the former Credit Suisse First Boston technology investment-banking guru, reportedly pleaded not guilty Tuesday to charges of obstruction of justice and witness tampering.
+()
+
+# ::snt The blue-chip Dow Jones industrial average .DJI fell 86.56 points, or 0.94 percent, to 9,109.99, after giving up more than 1 percent earlier.
+()
+
+# ::snt The Dow Jones industrial average ended the day down 10.89 at 9,837.94, after advancing 111.04 Wednesday.
+()
+
+# ::snt Perry has since called two special legislative sessions to try force the redistricting plan through.
+()
+
+# ::snt The agency will "consider as timely any tax returns or payments due" Aug. 15 if they are submitted by Aug. 22.
+()
+
+# ::snt Democrats currently hold a 17-15 advantage in the state's congressional delegation.
+()
+
+# ::snt Chaudhry was released 56 days later and the Fiji military installed an all-indigenous government led by Qarase, who won democratic elections in September 2001.
+()
+
+# ::snt New legit download service launches with PC users in mind.
+()
+
+# ::snt The 30-year bond US30YT=RR rose 22/32 for a yield of 4.31 percent, versus 4.35 percent at Wednesday's close.
+()
+
+# ::snt Last week, his lawyers asked Gov. Mark R. Warner to grant clemency, but the governor declined to intervene.
+()
+
+# ::snt Gov. Linda Lingle and members of her staff were at the Navy base and watched the launch.
+()
+
+# ::snt The best the investigators can do is nitpick about the process and substance of isolated business decisions ... and question his competence as a manager."
+()
+
+# ::snt The Justice Department filed suit Thursday against the state of Mississippi for failing to end what federal officials call "disturbing" abuse of juveniles and "unconscionable" conditions at two state-run facilities.
+()
+
+# ::snt The Chelsea defender Marcel Desailly has been the latest to speak out.
+()
+
+# ::snt She was the only woman in her unit and a member of Teamsters Local 995.
+()
+
+# ::snt Special police detained Khodorkovsky early on Saturday in the Siberian city of Novosibirsk, where his plane had made a refuelling stop.
+()
+
+# ::snt Sony Ericsson also said it would shut down its GSM/UMTS R&D center in Munich, Germany, to increase profitability.
+()
+
+# ::snt But the country is scrambling to prevent it spreading to the vast countryside where most of its 1.3 billion people live.
+()
+
+# ::snt Kansas Department of Health and Environment records show there were 88 abortions performed on girls age 14 and younger last year.
+()
+
+# ::snt "The discovery that the MAP bug is present in the vast majority of Crohn's sufferers means it is almost certainly causing the intestinal inflammation," it said in a statement.
+()
+
+# ::snt The life expectancy for boys born in 2001 was 74.4 years, up two years since 1990.
+()
+
+# ::snt For the full 12-month period, high-speed cable modem connections increased by 49 percent.
+()
+
+# ::snt We believe the report is fully consistent with what the courts have ruled ... that the department's actions are fully within the law.
+()
+
+# ::snt Indeed, Mr. Weill, a self-described workaholic, said he planned to remain very involved in the company.
+()
+
+# ::snt Gregory Parseghian, a former investment banker, was appointed chief executive.
+()
+
+# ::snt The report cites the marriage of the alleged operational commander of the Bali bombings, Mukhlas, to Farida, a "highly cosmopolitan and well-educated young woman".
+()
+
+# ::snt The Cradle of Liberty Council isn't the first one to buck the national group's stance.
+()
+
+# ::snt "It''s absurd," Funny Cide's trainer Barclay Tagg said.
+()
+
+# ::snt Last year, Cuban officials said none of nearly two dozen nominated Cuban musicians received U.S. visas on time to attend the Grammys in Los Angeles.
+()
+
+# ::snt The American conservatives are clearly in the minority within the Episcopal Church.
+()
+
+# ::snt The New York senator's new book, "Living History," appears a certain bestseller.
+()
+
+# ::snt "Canada is a small country, and it needs companies like this, deals like this."
+()
+
+# ::snt Police official S.K. Tonapi told Reuters at least 40 people had been killed and more than 100 wounded.
+()
+
+# ::snt "Jeremy's a good guy," Barber said, adding: "Jeremy is living the dream life of the New York athlete.
+()
+
+# ::snt But Mitsubishi Tokyo Financial (JP:8306: news, chart, profile) declined 3,000 yen, or 0.65 percent, to 456,000 yen.
+()
+
+# ::snt About 1,557 genes on chromosome 6 are thought to be functional.
+()
+
+# ::snt In the second quarter, Anadarko now expects volume of 46 million BOE, down from 48 million BOE.
+()
+
+# ::snt U.S. troops encountered no resistance during the five-hour sweep near Tikrit, Saddam Hussein's hometown and the center of a region of Baath Party supporters.
+()
+
+# ::snt Miodrag Zivkovic, of the Liberal Alliance of Montenegro, won 31 percent of the vote while the independent Dragan Hajdukovic got four percent.
+()
+
+# ::snt In the year-ago period, Pearson posted a 26 million pre-tax profit.
+()
+
+# ::snt Through Thursday, Oracle said 34.75 million PeopleSoft shares had been tendered.
+()
+
+# ::snt Yucaipa owned Dominick's before selling the chain to Safeway in 1998 for $2.5 billion.
+()
+
+# ::snt Graves reported from Albuquerque, Villafranca from Austin and Ratcliffe from Laredo.
+()
+
+# ::snt A 25 percent increase would raise undergraduate tuition to about $5,247 annually, including miscellaneous, campus-based fees.
+()
+
+# ::snt Authorities said the scientist properly quarantined himself at home after he developed SARS symptoms Dec. 10.
+()
+
+# ::snt The support will come as a free software upgrade called WebVPN for current customers that have support contracts.
+()
+
+# ::snt Hilsenrath and Klarman each were indicted on three counts of securities fraud.
+()
+
+# ::snt The new sensor -- dubbed CANARY for ''cellular analysis and notification of antigen risks and yields'' -- hijacks this natural process with two important changes.
+()
+
+# ::snt One, Fort Carson-based Sgt. Ernest Bucklew, 33, had been on his way home to attend his mother's funeral in Pennsylvania.
+()
+
+# ::snt Waksal has pleaded guilty to securities fraud and is to be sentenced next week.
+()
+
+# ::snt The device plays Internet radio streams and comes with a 30-day trial of RealNetworks' Rhapsody music service.
+()
+
+# ::snt The dollar fell as low as $1.1624 per euro from $1.1486 on Friday, and traded at $1.1594 at 10:15 a.m. in London.
+()
+
+# ::snt During the hearing, Morales expressed "sincere regrets and remorse" for his actions.
+()
+
+# ::snt Site Finder has been visited 65 million times since its introduction, Galvin said.
+()
+
+# ::snt According to SunnComm's Peter Jacobs, "MediaMax performs exactly as 'advertised' to the companies who purchased it.
+()
+
+# ::snt He was tracked to Atlanta where he was arrested on Tuesday night.
+()
+
+# ::snt The Bush administration blames Hussein loyalists and foreign Muslim militants who have entered Iraq to fight U.S. troops for the wave of bombings and guerrilla attacks.
+()
+
+# ::snt It later emerged that he had broken his right thigh and bones in his right wrist and elbow.
+()
+
+# ::snt The Senate agreed Tuesday to lift a 10-year-old ban on the research and development of low-yield nuclear weapons.
+()
+
+# ::snt Some 95 million Americans -- half of all households -- invest in mutual funds.
+()
+
+# ::snt The House has passed prescription-drug legislation in the last two sessions, but the Senate has failed to do so.
+()
+
+# ::snt The elderly and those with weakened immune systems are also urged to protect against mosquito bites.
+()
+
+# ::snt Ms Lafferty's lawyer, Thomas Ezzell, told a Kentucky newspaper: "My understanding of this is that there is a lower percentage of successful impregnations with frozen.
+()
+
+# ::snt Klarman was arrested by FBI agents in the Hamptons, an exclusive summer resort enclave east of New York City.
+()
+
+# ::snt The bishop told police he thought he had hit a dog or a cat or that someone had thrown a rock at his vehicle.
+()
+
+# ::snt A promotional poster, complete with countdown dial, reminds readers of the upcoming release of "Harry Potter and the Order of the Phoenix."
+()
+
+# ::snt "Further testing is still under way, but at this stage, given the early detection, the outlook in such instances would be positive," the specialist said yesterday.
+()
+
+# ::snt In morning trading, the Dow Jones industrial average was up 40.12, or 0.5 percent, at 8,571.69, having fallen 51 points Monday.
+()
+
+# ::snt Rich media doubled its share, increasing from 3% in Q2 2002 to 6% in Q2 2003.
+()
+
+# ::snt It will take time to oust die-hard remnants of Saddam Hussein's deposed regime in Iraq, Defense Secretary Donald H. Rumsfeld said Tuesday.
+()
+
+# ::snt Sayliyah was the command base for the Iraq war, but Central Command sent hundreds who ran the war back home to Tampa, Florida.
+()
+
+# ::snt SCO says the pricing terms for a license will not be announced for weeks.
+()
+
+# ::snt Sources within the racing industry have told the Daily Bulletin that Fontana will get a second NASCAR race on Labor Day weekend starting next season.
+()
+
+# ::snt The Dow Jones industrial average .DJI ended up 56.79 points, or 0.67 percent, at 8,588.36 -- its highest level since January 17.
+()
+
+# ::snt Dennehy, who transferred to Baylor last year after getting kicked off the University of New Mexico Lobos for temper tantrums, had begun to read the Bible daily.
+()
+
+# ::snt Bashir felt he was being tried by opinion not on the facts, Mahendradatta told Reuters.
+()
+
+# ::snt Schofield got Toepfer to admit on cross-examination that she ignored many of O'Donnell's suggestions and projects.
+()
+
+# ::snt In that case, the court held that Cincinnati had violated the First Amendment in banning only the advertising pamphlets in the interest of aesthetics.
+()
+
+# ::snt Box cutters were used as a weapon by the Sept. 11, 2001, hijackers and have since been banned as carry-on items.
+()
+
+# ::snt On July 22, Moore announced he would appeal the case directly to the U.S. Supreme Court.
+()
+
+# ::snt Southwest said its traffic was up 4.6 percent in the quarter, and it ended the quarter with $2.2 billion in cash.
+()
+
+# ::snt Four versions of Windows operating systems are targeted: Windows NT, Windows 2000, Windows XP and Windows Server 2003.
+()
+
+# ::snt Shares of McDonald's Corp. and Wendy's International Inc. continued a modest run-up on the New York Stock Exchange Monday.
+()
+
+# ::snt He playfully chided the Senate's "little bitty tax relief plan."
+()
+
+# ::snt Looking to buy the latest Harry Potter?
+()
+
+# ::snt MediaQ's customers include major handheld makers Mitsubishi, Siemens, Palm, Sharp, Philips, Dell and Sony.
+()
+
+# ::snt Aventis, based in Strasbourg, France, is one of a handful of companies that still make the flu vaccine.
+()
+
+# ::snt Michael Bloomberg, NYC Mayor: "I'm gonna try march with a number of different groups.
+()
+
+# ::snt The attack seemed similar to others staged near foreign compounds in Riyadh on May 12.
+()
+
+# ::snt "We put a lot of effort and energy into improving our patching process, probably later than we should have and now we're just gaining incredible speed.
+()
+
+# ::snt The boy also sprayed the room full of retardant from fire extinguishers, which made it hard to see, the chief said.
+()
+
+# ::snt "But HRT should not be used to prevent heart disease or any other chronic condition."
+()
+
+# ::snt The meat, poultry, butter, cheese and nuts were impounded a year ago at a LaGrou Cold Storage warehouse in Chicago.
+()
+
+# ::snt The BlueCore3-Multimedia includes a 16-bit stereo audio CODEC with dual ADC and DAC for stereo audio.
+()
+
+# ::snt Now, with the agency's last three shuttles grounded in the wake of the Columbia disaster, that wait could be even longer.
+()
+
+# ::snt Bremer, 61, is a onetime assistant to former Secretaries of State William P. Rogers and Henry Kissinger and was ambassador-at-large for counterterrorism from 1986 to 1989.
+()
+
+# ::snt Those conversations had not taken place as of Tuesday night, according to an Oracle spokeswoman.
+()
+
+# ::snt Taiwan has attempted to gain observer status to the United Nations-affiliated WHO for seven years, but again was rebuffed March 19 at its annual conference in Geneva.
+()
+
+# ::snt A Washington County man may have the countys first human case of West Nile virus, the health department said Friday.
+()
+
+# ::snt National Breast Cancer Centre chief executive Professor Christine Ewan said it was too early to quantify the risk to women.
+()
+
+# ::snt Brendsel and chief financial officer Vaughn Clarke resigned June 9.
+()
+
+# ::snt On health care, the NDP says there will be no privatization and no health-care premiums.
+()
+
+# ::snt The new companies will begin trading on Nasdaq today under the ticker symbols PLMO and PSRC.
+()
+
+# ::snt Kids, adults, booksellers and postal workers all are preparing for "Harry Potter and the Order of the Phoenix."
+()
+
+# ::snt The government did not identify the taikonauts — a term coined from ‘‘taikong,’’ the Chinese word for space — who would travel on the second mission.
+()
+
+# ::snt I think we made the right case and did the right thing."
+()
+
+# ::snt Kollar-Kotelly has scheduled another antitrust settlement compliance hearing for January.
+()
+
+# ::snt "Tomorrow at the Mission Inn, I have the opportunity to congratulate the governor-elect of the great state of California.
+()
+
+# ::snt "I expect Japan to keep conducting intervention, but the volume is likely to fall sharply," said Junya Tanase, forex strategist at JP Morgan Chase.
+()
+
+# ::snt The Sunshine Group LTD represented the developers, The Related Companies and Apollo Real Estate Advisors LP, on the deal.
+()
+
+# ::snt "It is about a third of what I owe in the world," he told reporters.
+()
+
+# ::snt The tech-laced Nasdaq Composite Index gained 2.90 points, or 0.18 percent, to 1,606.87.
+()
+
+# ::snt The benchmark 10-year Treasury note yield <US10YT=RR> dipped below 4.20 percent on Tuesday.
+()
+
+# ::snt So was Edie Falco, the critically praised co-star of "Frankie and Johnny."
+()
+
+# ::snt "Saddam is gone, but we want the (U.S.) occupation to end," said Hit resident Abu Qasim.
+()
+
+# ::snt Joe Kernan, who had been lieutenant governor for the past seven years, was sworn in as governor after O'Bannon died Saturday.
+()
+
+# ::snt Advanced Micro Devices said Fujitsu Siemens Computers is offering a high-end workstation based on AMD's Opteron 200 Series.
+()
+
+# ::snt Kodak expects earnings of 5 cents to 25 cents a share in the quarter.
+()
+
+# ::snt Shares of Corixa fell 12 cents to $6.88 on the Nasdaq stock market.
+()
+
+# ::snt He was referring to John S. Reed, the former Citicorp chief executive who became interim chairman and chief executive of the exchange last Sunday .
+()
+
+# ::snt He refused to reveal what percentage of flights carried sky marshals, or whether they would be increased.
+()
+
+# ::snt The Nasdaq Composite Index rose 19.67, or 1.3 percent, to 1523.71, its highest since June 18.
+()
+
+# ::snt They said they had concluded that the film failed "to present a balanced portrayal" of the Reagans.
+()
+
+# ::snt State health officials said today a young northeast Kansas woman likely has the state's first case of monkeypox among humans or animals.
+()
+
+# ::snt Navistar shares were down 44 cents, or 1.1 percent, at $41.19 on the New York Stock Exchange after falling as low as $39.93.
+()
+
+# ::snt Only Intel Corp.'s 0.3 percent yield was lower.
+()
+
+# ::snt MGM, NBC and Liberty executives were not immediately available for comment.
+()
+
+# ::snt The new analysis found that 32 of the 16,608 participants developed ovarian cancer during about 5 years of follow-up.
+()
+
+# ::snt Veteran stage and screen actor Hume Cronyn died of cancer Sunday.
+()
+
+# ::snt Deirdre Hisler, Government Canyon's manager, said the state has long had its eye on this piece of property and is eager to complete the deal to obtain it.
+()
+
+# ::snt Reuters witnesses said many houses had been flattened and the city squares were packed with crying children and the homeless, huddled in blankets to protect them from the cold.
+()
+
+# ::snt The three grocery chains were relying on store managers and replacement workers to keep their stores open.
+()
+
+# ::snt The security official's backup couldn't fill in because he was on active military duty, Strutt said.
+()
+
+# ::snt Researchers found the fossils in a semidesert area of Venezuela, about 250 miles west of Caracas.
+()
+
+# ::snt Mr McDonnell is leading Grant Thornton International's inquiry into the Italian business.
+()
+
+# ::snt The industry's largest association is urging its members not call the more than 50 million home and cellular numbers on the list.
+()
+
+# ::snt The workers accuse General Dynamics of "reverse age discrimination" because of a change in retirement benefits in 1997.
+()
+
+# ::snt The tech-laced Nasdaq Composite Index .IXIC eased 5.16 points, or 0.32 percent, at 1,590.75, breaking a six-day string of gains.
+()
+
+# ::snt The Space Infrared Telescope Facility's mission is to search for the beginnings of the universe.
+()
+
+# ::snt The respected medical journal Lancet has called for a complete ban on tobacco in the United Kingdom.
+()
+
+# ::snt The driver of the truck escaped and is now being sought by the police, Supoyo said.
+()
+
+# ::snt "In so many different ways, the artistry of black musicians has conveyed the experience of black Americans throughout our history," Bush said.
+()
+
+# ::snt Geraldine Andrews, the pastor's daughter-in-law, said Robinson recently took her daughter out of a mental health facility.
+()
+
+# ::snt Before Thursday's matinee, Baker called a clubhouse meeting, concerned that the controversy had distracted the Cubs.
+()
+
+# ::snt She was taken by ambulance to Charing Cross Hospital in Hammersmith.
+()
+
+# ::snt Shortly after the opening bell, the Dow Jones Industrial Average was up 11.13 to 9,228.48, while the S&P 500 index gained 1.74 to 982.33.
+()
+
+# ::snt In addition, primary care trusts (PCTs) were given star ratings for the first time this year.
+()
+
+# ::snt "We are expending all available resources toward the investigation," said Assistant U.S. Attorney Todd Greenberg, a counterterrorism prosecutor in Seattle.
+()
+
+# ::snt The technology-laced Nasdaq Composite Index .IXIC shed 15 points, or 0.98 percent, to 1,492.
+()
+
+# ::snt The research firm earlier had forecast an increase of 4.9 percent.
+()
+
+# ::snt PeopleSoft will commit $863 million in cash and issue 52.6 million new shares, the companies said.
+()
+
+# ::snt So in his State of the Union address in January, Bush declared that the British government "has learned that Saddam Hussein recently sought significant quantities of uranium from Africa."
+()
+
+# ::snt The other 24 members are split between representatives of the securities industry and so-called "public" board members.
+()
+
+# ::snt The Episcopal Diocese of Central Florida became one of the first in the nation Saturday to officially reject the national denomination's policies on homosexuality.
+()
+
+# ::snt McGill also detailed the hole that had been cut in the Caprice's trunk.
+()
+
+# ::snt That compared with a year-earlier profit of $102 million, or 13 cents a share.
+()
+
+# ::snt "The economy, nonetheless, has yet to exhibit sustainable growth.
+()
+
+# ::snt The commission estimated California lost $937 million to corporate tax shelters in 2001.
+()
+
+# ::snt In other markets, U.S. Treasuries started off on Monday weaker, as stocks rose early.
+()
+
+# ::snt The technology-laced Nasdaq Composite Index .IXIC was down 25.36 points, or 1.53 percent, at 1,628.26.
+()
+
+# ::snt The Pentagon had hoped to retain control of the postwar effort, so the decision is a victory for Secretary of State Colin L. Powell.
+()
+
+# ::snt Prof Sally Baldwin, 63, from York, fell into a cavity which opened up when the structure collapsed at Tiburtina station, Italian railway officials said.
+()
+
+# ::snt It calls for the agency to plan an independent safety and engineering organization.
+()
+
+# ::snt WorldCom's accounting problems came to light early last year, and the company filed for bankruptcy in July 2002, citing massive accounting irregularities.
+()
+
+# ::snt The study also found that consumer goods advertisers continued to spend the most dollars online, representing 35% of all Web advertising.
+()
+
+# ::snt Kiernan testified that Seifert had received a gunshot wound to the back.
+()
+
+# ::snt It is priced at $5,995 for an unlimited number of users tapping into the single processor, or $195 per user with a minimum of five users.
+()
+
+# ::snt Tropical storm heads for pass along Honduras coast
+()
+
+# ::snt Suicide bomber kills 12 in Nigeria church
+()
+
+# ::snt US says ready to help blind Chinese activist
+()
+
+# ::snt Gazans fire 2 rockets into Israel; no injuries
+()
+
+# ::snt Berri says ready to help launch national unity government
+()
+
+# ::snt 13 dead in Iraq bomb attacks
+()
+
+# ::snt Hurricane Isaac Moves Inland After Landfall
+()
+
+# ::snt Nigeria mourns over 193 people killed in plane crash
+()
+
+# ::snt ICC jails Congolese warlord for 14 years over child soldiers
+()
+
+# ::snt 7 soldiers killed, 56 injured in PKK attack in eastern Turkey
+()
+
+# ::snt Schiphol airport partly evacuated after bomb threat
+()
+
+# ::snt MIER ups 2012 growth forecast to 4.2pc
+()
+
+# ::snt Activists: Syrian troops storm Damascus suburb
+()
+
+# ::snt Tehran: EU sanctions won't force Iran into nuclear talks
+()
+
+# ::snt Portugal Drownings: UK Girl And Grandad Named
+()
+
+# ::snt Iran, powers set for high-stakes nuclear talks
+()
+
+# ::snt Syrian forces kill teen in Aleppo protests
+()
+
+# ::snt Jaguar to create 1,100 jobs in UK
+()
+
+# ::snt Iraq searches Syria bound Iran plane: officials
+()
+
+# ::snt Syria fighting rages as Russia urges Western re-think
+()
+
+# ::snt Erdogan's party submits plan for Turkish presidency
+()
+
+# ::snt Publisher acquitted in privacy case
+()
+
+# ::snt Samsung overtakes Nokia in phones
+()
+
+# ::snt Gu Kailai murder trial ends in China
+()
+
+# ::snt Not 'hiding the ball' on Russia: Obama
+()
+
+# ::snt England captain Andrew Strauss retires from professional cricket
+()
+
+# ::snt China backs Sri Lanka on UN resolution
+()
+
+# ::snt Ton up: Tendulkar reaches 100th international hundred
+()
+
+# ::snt Conspiracy against me - Lance
+()
+
+# ::snt Mursi takes oath of office, becomes Egyptian president
+()
+
+# ::snt Syrian opposition pleads for criminal court action
+()
+
+# ::snt Sunderland 2-2 Bolton: Davies double gets Trotters a point but they stay in bottom three
+()
+
+# ::snt Syrian forces shell towns, clash with rebels
+()
+
+# ::snt Bahraini protesters and police clash after funeral
+()
+
+# ::snt Apple buying security firm AuthenTec for $356 million
+()
+
+# ::snt Trade newspaper Variety up for sale
+()
+
+# ::snt Australians flee homes amid floods
+()
+
+# ::snt Germany dodges recession with growth in first quarter
+()
+
+# ::snt Asian stocks rise after Greek vote eases fears
+()
+
+# ::snt British soldier killed in southern Afghanistan
+()
+
+# ::snt Obama silent on China dissident
+()
+
+# ::snt Suicide Bomber Kills 6 in Afghan Capital
+()
+
+# ::snt Denver shooting: Police to detonate devices in suspect's home
+()
+
+# ::snt Syria hands over bodies of journalists
+()
+
+# ::snt Coroner: Whitney Houston died in bathtub
+()
+
+# ::snt Japan suffers severe flooding - in pictures
+()
+
+# ::snt Japan to deport Chinese held over island landing
+()
+
+# ::snt Some Syria violence amounts to civil war-Red Cross
+()
+
+# ::snt Romney Wins Nevada Caucus
+()
+
+# ::snt Apple iPad mini makes debut
+()
+
+# ::snt Hamas hangs three Gaza prisoners
+()
+
+# ::snt East Timor votes in presidential election
+()
+
+# ::snt Sunday Times journalist Marie Colvin killed in Syria
+()
+
+# ::snt KL shares higher at mid-afternoon
+()
+
+# ::snt Chicago teachers strike in bitter contract dispute
+()
+
+# ::snt Israel to free Palestinian hunger striker
+()
+
+# ::snt Not a good beginning: Hollande's plane hit by lightning en route to Berlin
+()
+
+# ::snt Afghan Parliament Votes to Oust Key Ministers
+()
+
+# ::snt Attacker in Afghan uniform kills 2 NATO troops
+()
+
+# ::snt Cheap generics no panacea for India’s poorest
+()
+
+# ::snt 'Arrest warrant' for Maldives ex-president
+()
+
+# ::snt HRW: Jordan turning away Palestinian refugees from Syria
+()
+
+# ::snt Syrian forces overrun rebel stronghold
+()
+
+# ::snt Chinese stocks close higher midday Friday
+()
+
+# ::snt Sandy slams into Northeast; at least 18 dead, 7.4M without power
+()
+
+# ::snt Putin Declares Victory in Russia Presidential Vote
+()
+
+# ::snt Supreme Court to Hear Voting Rights Act Case
+()
+
+# ::snt Libya postpones assembly election to July 7
+()
+
+# ::snt London 2012 Olympics Opening Ceremony 'to feature a green and pleasant land'
+()
+
+# ::snt Pakistan blocks Twitter over anti-Islamic material
+()
+
+# ::snt Annan to visit Syrian refugees in Turkey Tuesday
+()
+
+# ::snt Pakistani PM shocked at avalanche trapping army personnel
+()
+
+# ::snt Opposition leaders emerge to commemorate Cambodian workers' deaths
+()
+
+# ::snt Mali due to vote for president
+()
+
+# ::snt Pussy Riot member Alyokhina released from jail in Russia
+()
+
+# ::snt Asiana jet crash lands at San Francisco airport
+()
+
+# ::snt Blizzard hammers U.S. Northeast, five dead, 700,000 lose power
+()
+
+# ::snt 2 French Journalists Killed in Mali
+()
+
+# ::snt Vehicles ablaze in collapsed Japan tunnel
+()
+
+# ::snt China stocks close lower on Friday
+()
+
+# ::snt Mayor says 14 dead in Texas fertilizer plant blast
+()
+
+# ::snt CBN reiterates plan to phase out polymer notes
+()
+
+# ::snt U.S. files espionage charges agains NSA leaker
+()
+
+# ::snt Chinese general's son gets 10 years jail for rape
+()
+
+# ::snt Where's Rusty? Red panda vanishes from National Zoo
+()
+
+# ::snt Queen Beatrix of The Netherlands to abdicate for son
+()
+
+# ::snt U.S. dumps bombs at Great Barrier Reef
+()
+
+# ::snt 38 Taliban militants killed in Afghanistan
+()
+
+# ::snt Most powerful typhoon of 2013 hits the Philippines
+()
+
+# ::snt Calls for more Egypt protests
+()
+
+# ::snt US government 'on the edge of shutdown'
+()
+
+# ::snt 123 killed in fighting in northern Syria
+()
+
+# ::snt Critics say Putin’s security restrictions violate rights
+()
+
+# ::snt Egypt braces for more protests, prays for calm
+()
+
+# ::snt Morsi supporters protest in Egypt
+()
+
+# ::snt Stocks rise in early trading
+()
+
+# ::snt Bangladesh building collapse death toll hits 540: army
+()
+
+# ::snt Defiant Mugabe sworn in for seventh term blasts 'vile' West
+()
+
+# ::snt Nelson Mandela in Hospital for Tests
+()
+
+# ::snt Iran, six global powers sign landmark nuclear deal
+()
+
+# ::snt Algeria Mounts Military Operation to Rescue Al Qaeda Hostages
+()
+
+# ::snt Delhi gang rape victim dies in Singapore hospital
+()
+
+# ::snt Birth Control Linked With Higher Glaucoma Risk
+()
+
+# ::snt Malaysia sets May 5 as date for closely contested election
+()
+
+# ::snt Dhawan smashes India to big win over South Africa
+()
+
+# ::snt N Korea postpones family reunions
+()
+
+# ::snt Syria rejects US, UK chemical arms claims
+()
+
+# ::snt Egypt arrests Muslim Brotherhood Supreme Guide
+()
+
+# ::snt Gunmen kill nine people in northwest Pakistan
+()
+
+# ::snt News summary for March 11
+()
+
+# ::snt Hawaii passes gay marriage bill
+()
+
+# ::snt Syrian Opposition Urges EU to Send Arms to Rebels
+()
+
+# ::snt Funeral of Oscar Pistorius' girlfriend Reeva Steenkamp takes place
+()
+
+# ::snt Two firefighters killed in New York ambush
+()
+
+# ::snt Ten rescued off Waterford, Dublin coasts
+()
+
+# ::snt Mars rover collects first bedrock sample
+()
+
+# ::snt Ankeet Chavan granted conditional bail for marriage
+()
+
+# ::snt Man who battled Fukushima disaster dies of cancer
+()
+
+# ::snt Iran says nuclear talks to resume next month
+()
+
+# ::snt US authorities charge man in ricin probe
+()
+
+# ::snt 25 bodies found at raided Algerian gas plant
+()
+
+# ::snt Ferrer cruises into Australian Open quarter-finals
+()
+
+# ::snt UBS settles US mortgage lawsuit
+()
+
+# ::snt North, South Korea agree to talks
+()
+
+# ::snt Gunmen kill female politician in Pakistan
+()
+
+# ::snt Kardashian Divorce Ready for Trial
+()
+
+# ::snt New Zealand set to legalise gay marriage
+()
+
+# ::snt Syria regime claims evacuation of 5,000 near Damascus
+()
+
+# ::snt Nobel Prize winning author Doris Lessing dies
+()
+
+# ::snt Internet, phone service restored in Syrian capital
+()
+
+# ::snt Syrian PM Survives Bomb Attack
+()
+
+# ::snt US stock futures edge up ahead of jobs report
+()
+
+# ::snt Bomb blast kills 10 in southwest Pakistan
+()
+
+# ::snt David Cameron puts Sri Lanka on notice over war crime allegations
+()
+
+# ::snt Morsi supporters clash with riot police in Cairo
+()
+
+# ::snt Afghan police kill 5 Taliban fighters
+()
+
+# ::snt Gunmen kidnap airline pilots in Lebanon
+()
+
+# ::snt Kurdish rebels to withdraw from Turkey in March: report
+()
+
+# ::snt Japan revises GDP growth to annual 1.1 pct in Q3
+()
+
+# ::snt The foundations of South Africa are built on Nelson Mandela's memory
+()
+
+# ::snt Ukraine protest leaders name ministers, Russian troops on alert
+()
+
+# ::snt Malala, Snowden, Belarusians Short-Listed For Sakharov Prize
+()
+
+# ::snt ElBaradei to Become Egyptian PM
+()
+
+# ::snt Taiwan's economy grows 2.27% in April-June quarter
+()
+
+# ::snt Tamerlan Tsarnaev buried in Virginia
+()
+
+# ::snt State Dept. issues wide travel alert, says terror attack possible
+()
+
+# ::snt Singapore stocks end up 0.11 pct
+()
+
+# ::snt Russia warns Ukraine against EU deal
+()
+
+# ::snt Hernandez double gives Mexico victory
+()
+
+# ::snt China sacks top economic official
+()
+
+# ::snt Canada approves oil pipeline to the Pacific Coast
+()
+
+# ::snt Storm buries Northeast; 16 inches of snow in NJ
+()
+
+# ::snt Jamaican connection in Liverpool's win
+()
+
+# ::snt International weapons experts leave Syria, Obama to make statement
+()
+
+# ::snt Southwest jet hit nose first
+()
+
+# ::snt Twelve killed in bomb blast on Pakistani train
+()
+
+# ::snt Powerful quake strikes off eastern Indonesia
+()
+
+# ::snt Obama lashes North Korea as pariah state
+()
+
+# ::snt Colombia strike three times
+()
+
+# ::snt Lord Palumbo offers hope for a relationship with his son James
+()
+
+# ::snt Deputy speaker faces new sex claims
+()
+
+# ::snt CIA chief visits Israel for Syria talks
+()
+
+# ::snt Suicide bomb kills 4, injures 13 in Pakistan
+()
+
+# ::snt Ukraine rebels 'flee eastern stronghold'
+()
+
+# ::snt 4 foreigners among 9 killed in Kabul hotel attack
+()
+
+# ::snt Firefighters battle forest fire in SW China
+()
+
+# ::snt Hassan Rouhani wins Iran's presidential election
+()
+
+# ::snt Woman remanded over child's death A woman has been remanded in custody charged with murder after an eight-year-old girl was found dead in a block of flats.
+()
+
+# ::snt Red-shirt leader calls not to oppose army
+()
+
+# ::snt Russia praises idea to render rights assistance to Ukraine
+()
+
+# ::snt Georgian PM's ally to become president - exit poll
+()
+
+# ::snt Car bombs kill at least 16 in Iraqi capital
+()
+
+# ::snt Saudi Arabia gets a seat at the UN Security Council
+()
+
+# ::snt US drone strike kills 11 in Pakistan
+()
+
+# ::snt 20 killed in bomb attack at Pakistani base
+()
+
+# ::snt Shenzhen stock indices close higher Monday
+()
+
+# ::snt Prince Harry pays tribute to US war dead
+()
+
+# ::snt 15 dead in Iraq attacks, bomb at football pitch
+()
+
+# ::snt Myanmar arrests 44 over sectarian violence
+()
+
+# ::snt Iran official: US visa denial to Iranian envoy will not affect nuke talks
+()
+
+# ::snt Gov'ts, groups pledge millions for typhoon relief
+()
+
+# ::snt Greece suspends state broadcaster
+()
+
+# ::snt Guatemalan court finds former dictator guilty of genocide
+()
+
+# ::snt Beaten Florida teen released in Israel
+()
+
+# ::snt Iran, sextet to resume expert talks
+()
+
+# ::snt Bangladesh collapse search over; death toll 1,127
+()
+
+# ::snt Neymar powers Brazil into last 16
+()
+
+# ::snt Ukraine to implement unilateral ceasefire
+()
+
+# ::snt Stones add second Hyde Park concert
+()
+
+# ::snt What the Papers Say, Aug. 19, 2013
+()
+
+# ::snt 5 nations meet on haze
+()
+
+# ::snt Car bomb at Swedish consulate in Libya's Benghazi, no casualties
+()
+
+# ::snt Bomber strikes near Pakistan army HQ
+()
+
+# ::snt Croatia begins countdown to historic EU entry
+()
+
+# ::snt Suicide attack kills eight in Baghdad
+()
+
+# ::snt On War Criminals and Heroes: The Whitewashing of Ariel Sharon ŔÄ
+()
+
+# ::snt Rogers, Videotron extend reach with network-sharing deal
+()
+
+# ::snt Prominent AIDS researchers killed in Malaysian plane crash
+()
+
+# ::snt Israel Forces Kill 2 Palestinian Militants
+()
+
+# ::snt Death toll 'rises to 17' after typhoon strikes Japan
+()
+
+# ::snt Protests continue in tense Ukraine capital
+()
+
+# ::snt Two French journalists killed after Mali kidnapping
+()
+
+# ::snt Headlines in major Iranian newspapers on Dec 14
+()
+
+# ::snt Iran warns of spillover of possible war on Syria
+()
+
+# ::snt Former Pakistan President Pervez Musharraf arrested again
+()
+
+# ::snt US drone strike 'kills 4 militants in Pakistan'
+()
+
+# ::snt UK's Ex-Premier Margaret Thatcher Dies At 87
+()
+
+# ::snt Polar bear DNA 'may help fight obesity'
+()
+
+# ::snt 'Fast &amp; Furious' star Paul Walker dies in car crash
+()
+
+# ::snt Air strike kills one man in Syria's Hama
+()
+
+# ::snt Turkish PM, president clash over reply to protests
+()
+
+# ::snt Strong new quake hits shattered Pak region
+()
+
+# ::snt Floods in central Europe continue to create havoc
+()
+
+# ::snt Luxembourg PM quits amid spying scandal
+()
+
+# ::snt 3 dead, 4 missing in central China construction accident
+()
+
+# ::snt US, China fail to paper over cracks in ties
+()
+
+# ::snt World Cup live: France 0-0 Germany
+()
+
+# ::snt Tokyo to host 2020 Games
+()
+
+# ::snt France warns of extremists benefiting from Egypt violence
+()
+
+# ::snt British teenager killed in fall from Magaluf hotel
+()
+
+# ::snt US drone strike kills eight in Waziristan
+()
+
+# ::snt Russian opposition leader under house arrest
+()
+
+# ::snt Senate confirms Janet Yellen as chair of US Federal Reserve
+()
+
+# ::snt Israel confirms strike on Syria targeted weapons
+()
+
+# ::snt Jurors find Jodi Arias eligible for death penalty
+()
+
+# ::snt Twitter reports blocking in Venezuela
+()
+
+# ::snt Goa building collapse death toll touches 15
+()
+
+# ::snt Pak religious body endorses underage marriage
+()
+
+# ::snt Mt Gox reveals 200,000 'forgotten' bitcoin haul
+()
+
+# ::snt More than 100 injured in Texas plant blast
+()
+
+# ::snt Redford touts Alberta economy ahead of vote on leadership
+()
+
+# ::snt Obama holds out over Syria strikes
+()
+
+# ::snt South Korean soldier reportedly flees after killing 5 comrades at border with North Korea
+()
+
+# ::snt Tycoon claims win in Ukraine and promises to seek future in EU
+()
+
+# ::snt Syria agrees to surrender chemical weapons
+()
+
+# ::snt AbbVie Sours on $55B Shire Deal After Tax Changes
+()
+
+# ::snt Militant attack from Afghanistan kills four in Upper Dir
+()
+
+# ::snt 13 killed in Afgan terror attack
+()
+
+# ::snt Rev's Early Reads: March 2
+()
+
+# ::snt Pope canonizes 2 Palestinians
+()
+
+# ::snt Funeral of Ian Paisley to take place in Belfast
+()
+
+# ::snt Waba emerges new NLC president
+()
+
+# ::snt 5 US airstrikes target Islamic State fighters
+()
+
+# ::snt US Senate votes to advance Iran nuclear review bill
+()
+
+# ::snt Editors from around the world urge Turkey to protect media
+()
+
+# ::snt Philippines, Canada pledge to further boost relations
+()
+
+# ::snt Israel bars Palestinians from Jerusalem's Old City
+()
+
+# ::snt How much do you know about Secret Service?
+()
+
+# ::snt Obama Struggles to Soothe Saudi Fears As Iran Talks Resume
+()
+
+# ::snt South Korea declares end to MERS outbreak
+()
+
