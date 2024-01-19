@@ -37,7 +37,7 @@ Knowledge graphs play a pivotal role in various applications, such as question-a
 1. License and download [AMR Annotation 3.0](https://catalog.ldc.upenn.edu/LDC2020T02)
 2. Preprocess data by:
    ```bash
-   bash preprocess_amr3.sh <dir>
+   bash methods/preprocess_data/preprocess_amr3.sh <dir>
    ```
    `<dir>` is the directory where `amr_annotation_3.0_LDC2020T02.tgz` is located
 ## Results
