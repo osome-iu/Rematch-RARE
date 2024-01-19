@@ -1,6 +1,9 @@
 # Rematch-RARE
-
 This repository contains the source code, data, and documentation for the research paper titled "Rematch: Robust and Efficient Knowledge Graph Matching for Improved Structural and Semantic Similarity".
+![image](https://github.com/Zoher15/Rematch-RARE/assets/29090730/04b4f232-4076-4823-91f8-dd6d0c0542bd)
+An example of rematch’s similarity calculation for a pair of AMRs. After AMRs are parsed from sentences,
+rematch has a two-step process to calculate similarity. First, sets of motifs are generated. Second, the two sets are
+used to calculate the Jaccard similarity (intersecting motifs shown in color).
 
 ## Authors
 
@@ -30,55 +33,60 @@ Knowledge graphs play a pivotal role in various applications, such as question-a
    conda activate rematch-rare
    ```
 
-## Experiments
-
-
-41 changes: 39 additions & 2 deletions 41
-README.md
-@@ -21,16 +21,53 @@ Knowledge graphs play a pivotal role in various applications, such as question-a
-
+## Data Preprocessing
+1. License and download [AMR Annotation 3.0](https://catalog.ldc.upenn.edu/LDC2020T02)
+2. Preprocess data by:
    ```bash
-   git clone https://github.com/Zoher15/Rematch-RARE.git
+   bash preprocess_amr3.sh <dir>
    ```
-2. Create and activate conda Environment:
-   ```bash
-   conda env create -f rematch-rare.yml
-   ```
-   ```bash
-   conda activate rematch-rare
-   ```
-
-## Experiments
+   `<dir>` is the directory where `amr_annotation_3.0_LDC2020T02.tgz` is located
+## Results
 ### Structural Consistency
 ![image](https://github.com/Zoher15/Rematch-RARE/assets/29090730/787c68a4-2e09-4860-a08f-24b420d905b8)
 
-Steps to reproduce this experiment:
-1. Download [AMR Annotation 3.0](https://catalog.ldc.upenn.edu/LDC2020T02) to `data/raw` directory
-2. Unzip AMR Annotation 3.0:
+Steps to reproduce these results:
+1. Generate RARE:
    ```bash
-   tar -xvzf data/raw/amr_annotation_3.0_LDC2020T02.tgz
+   python experiments/structural_consistency/randomize_amr_rewire.py
    ```
-3. Merge AMR Annotation 3.0 files (script from [transition amr parser](https://github.com/IBM/transition-amr-parser)):
+2. Evaluate any metric on RARE test:
    ```bash
-   python methods/preprocess_data/merge_files.py data/raw/amr_annotation_3.0/data/amrs/split/ data/processed/AMR3.0/
+   bash experiments/structural_consistency/structural_consistency.sh <metric>
    ```
-5. Remove wiki edges from AMRs:
-   ```bash
-   python methods/preprocess_data/unwikify.py
-   ```
-6. Generate RARE:
-   ```bash
-   python methods/RARE/randomize_amr_rewire.py
-   ```
+   `<metric>` should be one of `rematch`, `smatch`, `s2match`, `sembleu`, `wlk` or `wwlk`. Depending on the metric, this could take a while to run.
 ### Semantic Consistency
 ![image](https://github.com/Zoher15/Rematch-RARE/assets/29090730/329ade7e-2e6e-4847-965e-7fa8fff3bfdc)
 
-Steps to reproduce this experiment:
+Steps to reproduce these results:
+1. Parse AMRs from STS-B and SICK-R:
 
+   a. Parse `AMR3-structbart-L-smpl` and `AMR3-joint-ontowiki-seed42` by:
+      ```
+      bash experiments/semantic_consistency/parse_amrs.sh
+      ```
+
+
+   b. (optional) Parse `Spring` by cloning the [repo](https://github.com/SapienzaNLP/spring). Also download and unzip the [AMR3 pretrained checkpoint](http://nlp.uniroma1.it/AMR/AMR3.parsing-1.0.tar.bz2). Ensure that the resulting unzipped file (`AMR3.parsing.pt`) is in the cloned repo directory `spring/`. Then run (requires cuda):
+      ```
+      bash experiments/semantic_consistency/parse_spring.sh <spring_dir>
+      ```
+      `<spring_dir>` is the location of the Spring repo clone.
+
+
+   c. (optional) Parse `Amrbart` by cloning the [repo](https://github.com/goodbai-nlp/AMRBART) #######################################
+
+   
+4. Evaluate a metric on the test set:
+   ```
+   bash experiments/semantic_consistency/semantic_consistency.sh <metric> <parser>
+   ```
+   `<metric>` should be one of `rematch`, `smatch`, `s2match`, `sembleu`, `wlk` or `wwlk`.
+   
+   `<parser>` should be one of `AMR3-structbart-L-smpl`, `AMR3-joint-ontowiki-seed42`, `spring` or `amrbart`. Ensure the chosen `<parser>` has been executed in the previous step.
 ### Hybrid Consistency (Bamboo Benchmark)
 ![image](https://github.com/Zoher15/Rematch-RARE/assets/29090730/8c6de7b9-ed68-4fed-afe6-2ba383360563)
 
-Steps to reproduce this experiment:
+Steps to reproduce these results:#############################
 
 ### Efficiency
 ![time space](https://github.com/Zoher15/Rematch-RARE/assets/29090730/2024bc28-be07-42fe-a406-ee46bc2f8680)
@@ -90,4 +98,4 @@ Steps to reproduce this experiment:
 |_WLK_|315|30|
 |**_rematch_**|51|0.2|
 
-Steps to reproduce this experiment:
+Steps to reproduce this experiment:#############################
