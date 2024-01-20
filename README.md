@@ -45,7 +45,7 @@ Knowledge graphs play a pivotal role in various applications, such as question-a
 ![image](https://github.com/Zoher15/Rematch-RARE/assets/29090730/787c68a4-2e09-4860-a08f-24b420d905b8)
 
 Steps to reproduce these results:
-1. Generate Randomized AMRs with Rewired Edges (RARE):
+1. Generate **Randomized AMRs with Rewired Edges** (RARE):
    ```bash
    python experiments/structural_consistency/randomize_amr_rewire.py
    ```
