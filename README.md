@@ -61,23 +61,27 @@ Steps to reproduce these results:
 1. Parse AMRs from STS-B and SICK-R:
 
    a. Parse `AMR3-structbart-L-smpl` and `AMR3-joint-ontowiki-seed42` by:
-      ```
+      ```bash
       bash experiments/semantic_consistency/parse_amrs.sh
       ```
 
 
    b. (optional) Parse `Spring` by cloning the [repo](https://github.com/SapienzaNLP/spring). Also download and unzip the [AMR3 pretrained checkpoint](http://nlp.uniroma1.it/AMR/AMR3.parsing-1.0.tar.bz2). Ensure that the resulting unzipped file (`AMR3.parsing.pt`) is in the cloned repo directory `spring/`. Then run (requires cuda):
-      ```
+      ```bash
       bash experiments/semantic_consistency/parse_spring.sh <spring_dir>
       ```
       `<spring_dir>` is the location of the Spring repo clone.
 
 
-   c. (optional) Parse `Amrbart` by cloning the [repo](https://github.com/goodbai-nlp/AMRBART) #######################################
+   c. (optional) Parse `Amrbart` by cloning my fork of the [AMRBART repo](https://github.com/Zoher15/AMRBART.git). To resolve errors, also `git reset --hard 4110f1e`. Then run (requires cuda):
+      ```bash
+      bash experiments/semantic_consistency/parse_amrbart.sh <amrbart_dir>
+      ```
+      `<amrbart_dir>` is the location of the Amrbart repo clone.
 
    
 4. Evaluate a metric on the test set:
-   ```
+   ```bash
    bash experiments/semantic_consistency/semantic_consistency.sh <metric> <parser>
    ```
    `<metric>` should be one of `rematch`, `smatch`, `s2match`, `sembleu`, `wlk` or `wwlk`.
@@ -86,7 +90,7 @@ Steps to reproduce these results:
 ### Hybrid Consistency (Bamboo Benchmark)
 ![image](https://github.com/Zoher15/Rematch-RARE/assets/29090730/8c6de7b9-ed68-4fed-afe6-2ba383360563)
 
-Steps to reproduce these results:#############################
+Please follow the instructions in the [Bamboo repo](https://github.com/flipz357/bamboo-amr-benchmark). Do note that by default, Bamboo uses Pearsonr, but for our analysis we chose Spearmanr. That change can be made easily in the [evaluation script](https://github.com/flipz357/bamboo-amr-benchmark/blob/main/evaluation-suite/evaluate4tasks.py) by using find and replace. Replace `pearsonr` with `spearmanr`.
 
 ### Efficiency
 ![time space](https://github.com/Zoher15/Rematch-RARE/assets/29090730/2024bc28-be07-42fe-a406-ee46bc2f8680)
@@ -98,4 +102,16 @@ Steps to reproduce these results:#############################
 |_WLK_|315|30|
 |**_rematch_**|51|0.2|
 
-Steps to reproduce this experiment:#############################
+Steps to reproduce this experiment:
+1. Generate the time testbed by:
+   ```bash
+   python experiments/efficiency/generate_matchups.py
+   ```
+2. Evaluate a specific `<metric>`, one of `rematch`, `smatch`, `s2match`, `sembleu` or `wlk`:
+   ```bash
+   bash experiments/efficiency/efficiency.sh <metric>
+   ```
+4. If all metrics have been executed, the plots from the paper can be reproduced by:
+   ```bash
+   python experiments/efficiency/plot_complexity.py
+   ```
