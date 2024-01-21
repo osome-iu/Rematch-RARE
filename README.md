@@ -90,7 +90,7 @@ Steps to reproduce these results:
 ### Hybrid Consistency (Bamboo Benchmark)
 ![image](https://github.com/Zoher15/Rematch-RARE/assets/29090730/8c6de7b9-ed68-4fed-afe6-2ba383360563)
 
-Please follow the instructions in the [Bamboo repo](https://github.com/flipz357/bamboo-amr-benchmark). Do note that by default, Bamboo uses Pearsonr, but for our analysis we chose Spearmanr. That change can be made easily in the [evaluation script](https://github.com/flipz357/bamboo-amr-benchmark/blob/main/evaluation-suite/evaluate4tasks.py) by using find and replace. Replace `pearsonr` with `spearmanr`.
+Please follow the instructions in the [Bamboo repo](https://github.com/flipz357/bamboo-amr-benchmark). Do note that by default, Bamboo uses Pearsonr, but for our analysis we chose Spearmanr. That change can be made easily in the [evaluation script](https://github.com/flipz357/bamboo-amr-benchmark/blob/main/evaluation-suite/evaluate4tasks.py) by using find and replace. The word `pearsonr` needs to be replaced with `spearmanr`.
 
 ### Efficiency
 ![time space](https://github.com/Zoher15/Rematch-RARE/assets/29090730/2024bc28-be07-42fe-a406-ee46bc2f8680)
