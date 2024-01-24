@@ -73,7 +73,7 @@ Steps to reproduce these results:
       `<spring_dir>` is the location of the Spring repo clone.
 
 
-   c. (optional) Parse `Amrbart` by cloning my fork of the [AMRBART repo](https://github.com/Zoher15/AMRBART.git). To resolve errors, also `git reset --hard 4110f1e`. Then run (requires cuda):
+   c. (optional) Parse `Amrbart` by cloning my fork of the [AMRBART repo](https://github.com/Zoher15/AMRBART.git). To resolve errors not addressed by the original repo, also `git reset --hard 4110f1e`. Then run (requires cuda):
       ```bash
       bash experiments/semantic_consistency/parse_amrbart.sh <amrbart_dir>
       ```
@@ -86,7 +86,7 @@ Steps to reproduce these results:
    ```
    `<metric>` should be one of `rematch`, `smatch`, `s2match`, `sembleu`, `wlk` or `wwlk`.
    
-   `<parser>` should be one of `AMR3-structbart-L-smpl`, `AMR3-joint-ontowiki-seed42`, `spring` or `amrbart`. Ensure the chosen `<parser>` has been executed in the previous step.
+   `<parser>` should be one of `AMR3-structbart-L-smpl`, `AMR3-joint-ontowiki-seed42`, `spring_unwiki` or `amrbart_unwiki`. Ensure the chosen `<parser>` has been executed in the previous step.
 ### Hybrid Consistency (Bamboo Benchmark)
 ![image](https://github.com/Zoher15/Rematch-RARE/assets/29090730/8c6de7b9-ed68-4fed-afe6-2ba383360563)
 
