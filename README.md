@@ -39,7 +39,7 @@ Knowledge graphs play a pivotal role in various applications, such as question-a
    ```bash
    bash methods/preprocess_data/preprocess_amr3.sh <dir>
    ```
-   `<dir>` is the directory where `amr_annotation_3.0_LDC2020T02.tgz` is located
+   `<dir>` is the directory where your `amr_annotation_3.0_LDC2020T02.tgz` file is located
 ## Results
 ### Structural Consistency (RARE)
 ![image](https://github.com/Zoher15/Rematch-RARE/assets/29090730/787c68a4-2e09-4860-a08f-24b420d905b8)
@@ -70,14 +70,14 @@ Steps to reproduce these results:
       ```bash
       bash experiments/semantic_consistency/parse_spring.sh <spring_dir>
       ```
-      `<spring_dir>` is the location of the Spring repo clone.
+      `<spring_dir>` is where your Spring repo clone is located.
 
 
    c. (optional) Parse `Amrbart` by cloning my fork of the [AMRBART repo](https://github.com/Zoher15/AMRBART.git). To resolve errors not addressed by the original repo, also `git reset --hard 4110f1e`. Then run (requires cuda):
       ```bash
       bash experiments/semantic_consistency/parse_amrbart.sh <amrbart_dir>
       ```
-      `<amrbart_dir>` is the location of the Amrbart repo clone.
+      `<amrbart_dir>` is where your Amrbart repo clone is located.
 
    
 4. Evaluate a metric on the test set:
