@@ -6,6 +6,10 @@ This script computes smatch score between two AMRs.
 For detailed description of smatch, see http://www.isi.edu/natural-language/amr/smatch-13.pdf
 
 """
+'''
+Original script from: https://github.com/flipz357/amr-metric-suite
+Modified by Zoher Kachwala to conduct experiments from Rematch (https://github.com/Zoher15/Rematch-RARE)
+'''
 import amr_py3 as amr
 import os
 import random

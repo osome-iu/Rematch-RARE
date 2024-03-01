@@ -6,6 +6,11 @@ from amr_graph import AMRGraph
 import numpy as np
 import amr
 
+'''
+Original script from: https://github.com/freesunshine0316/sembleu
+Modified by Zoher Kachwala to conduct experiments from Rematch (https://github.com/Zoher15/Rematch-RARE)
+'''
+
 def read_amr(path):
     ids = []
     id_dict = {}
@@ -177,6 +182,6 @@ if __name__ == '__main__':
     df = pd.DataFrame({'scores':scores, 'time':times, 'ref_sizes': ref_sizes, 'hyp_sizes': hyp_sizes, 'search_spaces': search_spaces, 'instance1_count': instance1_count, 'instance2_count': instance2_count, 'attributes1_count': attributes1_count,'attributes2_count': attributes2_count, 'relation1_count': relation1_count, 'relation2_count': relation2_count, 'triples1_count': triples1_count, 'triples2_count': triples2_count, 'n':ns})
     name = f"{args.f[0].split('.txt')[0]}_sembleu_scores.npy"
     df_name = f"{args.f[0].split('.txt')[0]}_sembleu_data.csv"
-    print("\n".join(str(pr) for pr in scores))
+    # print("\n".join(str(pr) for pr in scores))
     np.save(name, scores)
     df.to_csv(df_name, index = False)

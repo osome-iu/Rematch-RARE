@@ -1,9 +1,11 @@
 #!/usr/bin/env python
 import numpy as np
 import pandas as pd
+from collections import Counter
 import time
 import amr
 import networkx as nx
+import itertools
 import json
 
 def normalize(item):
@@ -63,7 +65,7 @@ def generate_instance_motifs(instance, attribute_motifs, pb2va):
             instance_motifs[inst[1]].append(tuple([label]))
     return instance_motifs
 
-def generate_relation_motifs(relation, instance_motifs, pb_nodes):       
+def generate_relation_motifs(relation, instance_motifs, pb_nodes):
     # format : {'a0':['car',('mode','red'),('quant','1')]}
     # collecting instance motifs for canonical keys
     # no need to sort as attributes are already sorted
@@ -84,28 +86,8 @@ def flatten(l):
     return [item for sublist in l for item in sublist]
 
 def generate_amr_motifs(attributes, instance, relation, pb, pb2va):
-    g = nx.DiGraph()
-    g.add_edges_from([(edge[1], edge[2]) for edge in relation])
-    # replacing nodes with in and out degree 1 with their successor
-    # in_degree_1 = {node for node,value in dict(g.in_degree()).items() if value == 1}
-    # out_degree_1 = {node for node,value in dict(g.out_degree()).items() if value == 1}
-    # nodes2remove = in_degree_1.intersection(out_degree_1)
-    # nodes2replace = {}
-    # # the successor itself may need to be replaced. Going postorder helps avoid that
-    # for node in list(nx.dfs_postorder_nodes(g)):
-    #     if node in nodes2remove:
-    #         neighbor = list(g.neighbors(node))[0]
-    #         if neighbor in nodes2remove:
-    #             nodes2replace[node] = nodes2replace[neighbor]
-    #         else:
-    #             nodes2replace[node] = neighbor
-    # # nodes2replace = {node:list(g.neighbors(node))[0] for node in nodes2remove}
-    # # remove 'top' from attributes
-    # attributes = [attr for attr in attributes if attr[2] != 'top']
-    # attributes = [(attr[0],nodes2replace[attr[1]],attr[2]) if attr[1] in nodes2remove else attr for attr in attributes]
-    # instance = [inst for inst in instance if inst[1] not in nodes2remove]
-    # relation = [(rel[0], rel[1], nodes2replace[rel[2]]) if rel[2] in nodes2remove else rel for rel in relation]
-    # relation = [rel for rel in relation if rel[1] not in nodes2remove]
+    # remove 'top' from attributes
+    attributes = [attr for attr in attributes if attr[2] != 'top']
     # collecting ordered attribute motifs
     attribute_motifs = generate_attribute_motifs(attributes, instance)
     # collecting ordered instance motifs

@@ -7,7 +7,10 @@ This script computes smatch score between two AMRs.
 For detailed description of smatch, see http://www.isi.edu/natural-language/amr/smatch-13.pdf
 
 """
-
+'''
+Original script from: https://github.com/snowblink14/smatch
+Modified by Zoher Kachwala to conduct experiments from Rematch (https://github.com/Zoher15/Rematch-RARE)
+'''
 import random
 import time
 import pandas as pd
@@ -843,7 +846,7 @@ def main(args):
     df = pd.DataFrame({'scores':f_scores, 'time':times, 'instance1_count': instance1_count, 'instance2_count': instance2_count, 'attributes1_count': attributes1_count,'attributes2_count': attributes2_count, 'relation1_count': relation1_count, 'relation2_count': relation2_count, 'triples1_count': triples1_count, 'triples2_count': triples2_count, 'best_iterations': best_iterations, 'search_spaces': search_spaces, 'n': ns})
     name = f"{args.f[0].split('.txt')[0]}_smatch_scores.npy"
     df_name = f"{args.f[0].split('.txt')[0]}_smatch_data.csv"
-    print("\n".join(str(pr) for pr in f_scores))
+    # print("\n".join(str(pr) for pr in f_scores))
     np.save(name, f_scores)
     df.to_csv(df_name, index = False)
 

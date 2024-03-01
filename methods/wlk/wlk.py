@@ -2,6 +2,11 @@ import argparse
 import numpy as np
 import pandas as pd
 
+'''
+Original script from: https://github.com/flipz357/weisfeiler-leman-amr-metrics
+Modified by Zoher Kachwala to conduct experiments from Rematch (https://github.com/Zoher15/Rematch-RARE)
+'''
+
 def build_arg_parser():
 
     parser = argparse.ArgumentParser(
@@ -114,7 +119,7 @@ if __name__ == "__main__":
         df_name = f"{args.f[0].split('.txt')[0]}_wlk_data.csv"
         np.save(name, preds)
         df.to_csv(df_name, index = False)
-        print("\n".join(str(pr) for pr in preds))
+        # print("\n".join(str(pr) for pr in preds))
 
     elif args.output_type == 'score_corpus':
         preds = get_scores()
