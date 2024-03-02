@@ -228,11 +228,11 @@ if __name__ == "__main__":
               '(Default: false)'))
     parser.add_argument(
         '--pb',
-        default='/N/scratch/zkachwal/propbank-frames.txt',
+        default='methods/rematch/propbank-frames.txt',
         help=('Path to file containing Propbank frames'))
     parser.add_argument(
         '--va',
-        default='/N/scratch/zkachwal/VerbAtlas/pb2va.json',
+        default='methods/rematch/pb2va.json',
         help=('Path to file containing Verbatlas mappings'))
     args = parser.parse_args()
     main(args)

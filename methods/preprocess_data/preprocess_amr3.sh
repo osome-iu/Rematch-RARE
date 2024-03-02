@@ -13,3 +13,10 @@ python methods/preprocess_data/unwikify.py -f data/processed/AMR3.0/test.txt
 python methods/preprocess_data/unwikify.py -f data/processed/AMR3.0/dev.txt
 # 6. merge all files
 python methods/preprocess_data/compile_files.py
+# 7. download glove vectors for s2match
+mkdir data/vectors
+cd data/vectors
+wget http://nlp.stanford.edu/data/glove.6B.zip
+unzip glove.6B.zip
+cd ..
+cd ..

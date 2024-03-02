@@ -95,7 +95,7 @@ def build_arg_parser():
     parser = argparse.ArgumentParser(description="Smatch calculator -- arguments")
     parser.add_argument('-f', nargs=2, required=True, default=['/N/scratch/zkachwal/amr3_data/all_gold_unwiki_500k_1.txt','/N/scratch/zkachwal/amr3_data/all_gold_unwiki_500k_2.txt'], type=str,
                         help='Two files containing AMR pairs. AMRs in each file are separated by a single blank line')
-    parser.add_argument('-vectors', required=False, type=str, default="/N/scratch/zkachwal/vectors/glove.6B.100d.txt",
+    parser.add_argument('-vectors', required=False, type=str, default="data/vectors/glove.6B.100d.txt",
                         help='Filepath to Glove vectors')
     parser.add_argument('-similarityfunction', required=False, type=str, default="cosine",
                         help='similarity function')
@@ -1022,7 +1022,7 @@ def main(arguments):
                 print ("Precision: %.3f" % precision)
                 print ("Recall: %.3f" % recall)
 #            print "Smatch score: %.3f" % best_f_score
-            print ("Smatch score F1 %.3f" % best_f_score)
+            # print ("Smatch score F1 %.3f" % best_f_score)
             f_scores.append(best_f_score)
         total_match_num_soft += best_match_num_soft
         total_test_num += test_triple_num
