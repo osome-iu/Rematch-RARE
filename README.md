@@ -60,19 +60,18 @@ Steps to reproduce these results:
 Steps to reproduce these results:
 1. Parse AMRs from STS-B and SICK-R:
 
-   a. Parse `AMR3-structbart-L-smpl` and `AMR3-joint-ontowiki-seed42` by:
+   a. Follow the [instructions to install the transition_amr_parser](https://github.com/IBM/transition-amr-parser). Highly recommend creating an independent conda environment called `transition_amr_parser`. Parse `AMR3-structbart-L-smpl` and `AMR3-joint-ontowiki-seed42` by activating the environment and executing the script (requires cuda):
       ```bash
-      conda env create -f transition_amr_parser.yml
       conda activate transition_amr_parser
       bash experiments/semantic_consistency/parse_amrs.sh
       ```
 
 
-   b. (optional) Parse `Spring` by cloning the [repo](https://github.com/SapienzaNLP/spring). Also download and unzip the [AMR3 pretrained checkpoint](http://nlp.uniroma1.it/AMR/AMR3.parsing-1.0.tar.bz2). Ensure that the resulting unzipped file (`AMR3.parsing.pt`) is in the cloned repo directory `spring/`. Then run (requires cuda):
+   b. (optional) Parse `Spring` by cloning the [repo](https://github.com/SapienzaNLP/spring) and following the instructions to install. Highly recommend creating an independent conda environment called `spring`. Also download and unzip the [AMR3 pretrained checkpoint](http://nlp.uniroma1.it/AMR/AMR3.parsing-1.0.tar.bz2). Ensure that the resulting unzipped file (`AMR3.parsing.pt`) is in the cloned repo directory `spring/`. Then run the following, where `<spring_dir>` is the location of your Spring repo (requires cuda):
       ```bash
+      conda activate spring
       bash experiments/semantic_consistency/parse_spring.sh <spring_dir>
       ```
-      `<spring_dir>` is where your Spring repo clone is located.
 
 
    c. (optional) Parse `Amrbart` by cloning my fork of the [AMRBART repo](https://github.com/Zoher15/AMRBART.git). To resolve errors not addressed by the original repo, also `git reset --hard 4110f1e`. Then run (requires cuda):
