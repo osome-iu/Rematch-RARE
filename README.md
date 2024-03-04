@@ -62,6 +62,8 @@ Steps to reproduce these results:
 
    a. Parse `AMR3-structbart-L-smpl` and `AMR3-joint-ontowiki-seed42` by:
       ```bash
+      conda env create -f transition_amr_parser.yml
+      conda activate transition_amr_parser
       bash experiments/semantic_consistency/parse_amrs.sh
       ```
 
