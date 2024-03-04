@@ -1,4 +1,4 @@
-name: amr
+name: transition_amr_parser
 channels:
   - anaconda
   - defaults

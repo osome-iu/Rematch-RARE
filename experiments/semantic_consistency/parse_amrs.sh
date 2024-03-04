@@ -12,9 +12,6 @@
 #SBATCH --mem=24G
 #SBATCH --time=3:00:00
 errcho(){ >&2 echo $@; }
-source /N/u/zkachwal/Carbonate/miniconda3/etc/profile.d/conda.sh
-conda activate amr
 ####################################################################
-cd /geode2/home/z/k/zkachwal/BigRed3/Rematch-RARE
-# time python methods/parse_amrs/parse_sts.py
+time python methods/parse_amrs/parse_sts.py
 time python methods/parse_amrs/parse_sick.py

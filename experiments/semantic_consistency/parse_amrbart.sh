@@ -11,20 +11,15 @@
 #SBATCH --gpus-per-node=1
 #SBATCH --mem=24G
 #SBATCH --time=4:00:00
-source /N/u/zkachwal/Carbonate/miniconda3/etc/profile.d/conda.sh
-conda activate amrbart
-
 export CUDA_VISIBLE_DEVICES=0
 
 Dataset=examples
 
-BasePath=/mnt/nfs-storage/data                    # change dir here
 DataPath=$1/../$Dataset
 
 ModelCate=AMRBART-large
 
 MODEL=xfbai/AMRBART-large-finetuned-AMR3.0-AMRParsing-v2
-ModelCache=$BasePath/.cache
 DataCache=$DataPath/.cache/dump-amrparsing
 
 lr=1e-5
@@ -44,7 +39,6 @@ for split in test train dev; do
             --task "text2amr" \
             --test_file $split\_sent$num.jsonl \
             --output_dir $OutputDir \
-            --cache_dir $ModelCache \
             --data_cache_dir $DataCache \
             --overwrite_cache True \
             --model_name_or_path $MODEL \
@@ -91,7 +85,6 @@ for split in TEST TRAIN TRIAL; do
             --task "text2amr" \
             --test_file $split\_sent$num.jsonl \
             --output_dir $OutputDir \
-            --cache_dir $ModelCache \
             --data_cache_dir $DataCache \
             --overwrite_cache True \
             --model_name_or_path $MODEL \
