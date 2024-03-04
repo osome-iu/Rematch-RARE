@@ -74,12 +74,10 @@ Steps to reproduce these results:
       ```
 
 
-   c. (optional) Parse `Amrbart` by cloning my fork of the [AMRBART repo](https://github.com/Zoher15/AMRBART.git). To resolve errors not addressed by the original repo, also `git reset --hard 4110f1e`. Then run (requires cuda):
+   c. (optional) Parse `Amrbart` by cloning my fork of the [AMRBART repo](https://github.com/Zoher15/AMRBART.git) and following the instructions to install. Highly recommend creating an independent conda environment called `amrbart`. To resolve errors not addressed by the original repo, also `git reset --hard 4110f1e`. Then run the following, where `<amrbart_dir>` is the location of your Amrbart repo (requires cuda):
       ```bash
       bash experiments/semantic_consistency/parse_amrbart.sh <amrbart_dir>
       ```
-      `<amrbart_dir>` is where your Amrbart repo clone is located.
-
    
 4. Evaluate a metric on the test set:
    ```bash
