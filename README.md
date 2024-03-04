@@ -67,7 +67,7 @@ Steps to reproduce these results:
       ```
 
 
-   b. (optional) Parse `Spring` by cloning the [repo](https://github.com/SapienzaNLP/spring) and following the instructions to install. Highly recommend creating an independent conda environment called `spring`. Also download and unzip the [AMR3 pretrained checkpoint](http://nlp.uniroma1.it/AMR/AMR3.parsing-1.0.tar.bz2). Ensure that the resulting unzipped file (`AMR3.parsing.pt`) is in the cloned repo directory `spring/`. Then run the following, where `<spring_dir>` is the location of your Spring repo (requires cuda):
+   b. (optional) Parse `Spring` by [cloning the repo and following the instructions to install](https://github.com/SapienzaNLP/spring). Highly recommend creating an independent conda environment called `spring`. Also download and unzip the [AMR3 pretrained checkpoint](http://nlp.uniroma1.it/AMR/AMR3.parsing-1.0.tar.bz2). Ensure that the resulting unzipped file (`AMR3.parsing.pt`) is in the cloned repo directory `spring/`. Then run the following, where `<spring_dir>` is the location of your Spring repo (requires cuda):
       ```bash
       conda activate spring
       bash experiments/semantic_consistency/parse_spring.sh <spring_dir>
