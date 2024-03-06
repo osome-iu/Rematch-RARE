@@ -82,6 +82,7 @@ Steps to reproduce these results:
    
 4. Evaluate a metric on the test set:
    ```bash
+   conda activate rematch_rare
    bash experiments/semantic_consistency/semantic_consistency.sh <metric> <parser>
    ```
    `<metric>` should be one of `rematch`, `smatch`, `s2match`, `sembleu`, `wlk` or `wwlk`.
