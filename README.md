@@ -27,10 +27,10 @@ Knowledge graphs play a pivotal role in various applications, such as question-a
    ```
 2. Create and activate conda Environment:
    ```bash
-   conda env create -f rematch-rare.yml
+   conda env create -f rematch_rare.yml
    ```
    ```bash
-   conda activate rematch-rare
+   conda activate rematch_rare
    ```
 
 ## Data Preprocessing
