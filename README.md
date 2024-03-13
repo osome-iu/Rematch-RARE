@@ -7,9 +7,10 @@ used to calculate the Jaccard similarity (intersecting motifs shown in color).
 
 ## Authors
 
-* [Author 1 Name] ([Affiliation])
-* [Author 2 Name] ([Affiliation])
-* ...
+* Zoher Kachwala (Indiana University)
+* Jisun An (Indiana University)
+* Haewoon Kwak (Indiana University)
+* Filippo Menczer (Indiana University)
 
 ## Abstract
 
