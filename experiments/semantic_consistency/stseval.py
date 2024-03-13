@@ -6,7 +6,7 @@ from scipy import stats
 
 def stseval(args):
 	for split_type in ['test']:#,'train','dev'
-		data = pd.read_csv(os.path.join(args.datapath,f'sts-{split_type}.csv'), sep = '\t', names = ['genre', 'subgenre', 'filename','year','score','sentence1','sentence2'], encoding = 'utf-8', quoting = 3)
+		data = pd.read_csv(os.path.join(args.datapath,f'sts-{split_type}.csv'), sep = '\t', names = ['genre', 'subgenre', 'filename','year','score','sentence1','sentence2'], encoding = 'utf-8', quoting = 3, engine = 'python', on_bad_lines=lambda x: x[:7])
 		ground_truth = data['score']
 		# try:
 		predicted = np.load(os.path.join(args.amrpath, f"{split_type}_sentences1_{args.parser}_{args.mode}_scores.npy"))

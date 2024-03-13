@@ -1050,7 +1050,7 @@ def main(arguments):
         df = pd.DataFrame({'scores':f_scores})
     name = f"{args.f[0].split('.txt')[0]}_s2match_scores.npy"
     df_name = f"{args.f[0].split('.txt')[0]}_s2match_data.csv"
-    print("\n".join(str(pr) for pr in f_scores))
+    # print("\n".join(str(pr) for pr in f_scores))
     np.save(name, f_scores)
     df.to_csv(df_name, index = False)
 

@@ -11,8 +11,6 @@
 #SBATCH --gpus-per-node=1
 #SBATCH --mem=24G
 #SBATCH --time=4:00:00
-source /N/u/zkachwal/Carbonate/miniconda3/etc/profile.d/conda.sh
-conda activate spring
 for split in test train dev; do
     for num in 1 2; do
         python $1/bin/predict_amrs.py \

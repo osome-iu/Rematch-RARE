@@ -1,7 +1,6 @@
 import json
 import codecs
 import os
-import networkx as nx
 import argparse
 import pandas as pd
 import sys
