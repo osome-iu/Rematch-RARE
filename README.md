@@ -107,13 +107,14 @@ Please follow the instructions in the [Bamboo repo](https://github.com/flipz357/
 Steps to reproduce this experiment:
 1. Generate the time testbed by:
    ```bash
+   conda activate rematch_rare
    python experiments/efficiency/generate_matchups.py
    ```
 2. Evaluate a specific `<metric>`, one of `rematch`, `smatch`, `s2match`, `sembleu` or `wlk`:
    ```bash
    bash experiments/efficiency/efficiency.sh <metric>
    ```
-4. If all metrics have been executed, the plots from the paper can be reproduced by:
+4. If all metrics have been executed, the plots from the paper can be reproduced by (save in `data/processed/AMR3.0`):
    ```bash
    python experiments/efficiency/plot_complexity.py
    ```
