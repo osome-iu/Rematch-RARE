@@ -63,6 +63,7 @@ Steps to reproduce these results:
 
    a. Follow the [instructions to install the transition_amr_parser](https://github.com/IBM/transition-amr-parser). Highly recommend creating an independent conda environment called `transition_amr_parser`. Parse `AMR3-structbart-L-smpl` and `AMR3-joint-ontowiki-seed42` by activating the environment and executing the script (requires cuda):
       ```bash
+      conda env create -f transition_amr_parser.yml
       conda activate transition_amr_parser
       bash experiments/semantic_consistency/parse_amrs.sh
       ```
@@ -70,6 +71,7 @@ Steps to reproduce these results:
 
    b. (optional) Parse `Spring` by [cloning the repo and following the instructions to install](https://github.com/SapienzaNLP/spring). Highly recommend creating an independent conda environment called `spring`. Also download and unzip the [AMR3 pretrained checkpoint](http://nlp.uniroma1.it/AMR/AMR3.parsing-1.0.tar.bz2). Ensure that the resulting unzipped file (`AMR3.parsing.pt`) is in the cloned repo directory `spring/`. Then run the following, where `<spring_dir>` is the location of your Spring repo (requires cuda):
       ```bash
+      conda env create -f spring.yml
       conda activate spring
       bash experiments/semantic_consistency/parse_spring.sh <spring_dir>
       ```
@@ -77,6 +79,7 @@ Steps to reproduce these results:
 
    c. (optional) Parse `Amrbart` by [cloning the repo and following the instructions to install](https://github.com/goodbai-nlp/AMRBART). Highly recommend creating an independent conda environment called `amrbart`. Then run the following, where `<amrbart_dir>` is the location of your Amrbart repo (requires cuda):
       ```bash
+      conda env create -f amrbart.yml
       conda activate amrbart
       bash experiments/semantic_consistency/parse_amrbart.sh <amrbart_dir>
       ```
