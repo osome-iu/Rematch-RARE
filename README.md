@@ -2,7 +2,6 @@
 This repository contains the source code, data, and documentation for the research paper titled "Rematch: Robust and Efficient Knowledge Graph Matching for Improved Structural and Semantic Similarity".
 ![rematchflow](https://github.com/Zoher15/Rematch-RARE/assets/29090730/d96a78ca-8bf4-4242-af2d-b9cf9fae9b6b)
 
-
 An example of rematch’s similarity calculation for a pair of AMRs. After AMRs are parsed from sentences,
 rematch has a two-step process to calculate similarity. First, sets of motifs are generated. Second, the two sets are
 used to calculate the Jaccard similarity (intersecting motifs shown in color).
