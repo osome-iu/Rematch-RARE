@@ -1,5 +1,5 @@
 # Rematch-RARE
-This repository contains the source code, data, and documentation for the research paper titled "Rematch: Robust and Efficient Knowledge Graph Matching for Improved Structural and Semantic Similarity".
+This repository contains the source code, data, and documentation for the research paper titled "Rematch: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity".
 ![rematchflow](https://github.com/Zoher15/Rematch-RARE/assets/29090730/7f7e9995-2d5c-4b09-897d-d6bb2ebe025c)
 
 
