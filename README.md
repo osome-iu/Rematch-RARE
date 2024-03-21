@@ -1,5 +1,5 @@
 # Rematch-RARE
-This repository contains the source code, data, and documentation for the research paper titled "Rematch: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity".
+This repository contains the source code, data, and documentation for the research paper:
 
 ```
 @inproceedings{kachwala2024rematch,
