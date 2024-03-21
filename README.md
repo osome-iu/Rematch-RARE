@@ -1,5 +1,18 @@
 # Rematch-RARE
-This repository contains the source code, data, and documentation for the research paper titled "Rematch: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity" to appear in Proc. NAACL24 ([url](https://openreview.net/forum?id=dBnsZ72qUQ)).
+This repository contains the source code, data, and documentation for the research paper titled "Rematch: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity".
+
+```
+@inproceedings{kachwala2024rematch,
+  title = {Rematch: Robust and Efficient Matching of Local Knowledge Graphs for Improved Structural and Semantic Similarity},
+  author = {Kachwala, Zoher and An, Jisun and Kwak, Haewoon and Menczer, Filippo},
+  booktitle = {2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics},
+  year = {2024},
+  url = {https://openreview.net/forum?id=dBnsZ72qUQ},
+  eprint = {https://openreview.net/forum?id=T5e7G9UQ1vK}
+}
+```
+
+
 
 ![rematchflow](https://github.com/Zoher15/Rematch-RARE/assets/29090730/7f7e9995-2d5c-4b09-897d-d6bb2ebe025c)
 
