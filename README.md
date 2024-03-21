@@ -17,7 +17,7 @@ This repository contains the source code, data, and documentation for the resear
 ![rematchflow](https://github.com/Zoher15/Rematch-RARE/assets/29090730/7f7e9995-2d5c-4b09-897d-d6bb2ebe025c)
 
 
-An example of rematch’s similarity calculation for a pair of AMRs. After AMRs are parsed from sentences,
+An example of rematch similarity calculation for a pair of AMRs. After AMRs are parsed from sentences,
 rematch has a two-step process to calculate similarity. First, sets of motifs are generated. Second, the two sets are
 used to calculate the Jaccard similarity (intersecting motifs shown in color).
 
