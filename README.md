@@ -59,7 +59,7 @@ Knowledge Graphs, Graph Matching, Abstract Meaning Representation (AMR), Semanti
    `<dir>` is the directory where your `amr_annotation_3.0_LDC2020T02.tgz` file is located
 ## Results
 ### Structural Consistency (RARE)
-![image](https://github.com/Zoher15/Rematch-RARE/assets/29090730/787c68a4-2e09-4860-a08f-24b420d905b8)
+![image](https://github.com/osome-iu/Rematch-RARE/assets/29090730/ac85dd60-acac-41d9-9c1e-1d7f99e20f5f)
 
 Steps to reproduce these results:
 1. Generate **Randomized AMRs with Rewired Edges** (RARE):
@@ -72,7 +72,7 @@ Steps to reproduce these results:
    ```
    `<metric>` should be one of `rematch`, `smatch`, `s2match`, `sembleu`, `wlk` or `wwlk`. Depending on the metric, this could take a while to run.
 ### Semantic Consistency
-![image](https://github.com/Zoher15/Rematch-RARE/assets/29090730/329ade7e-2e6e-4847-965e-7fa8fff3bfdc)
+![image](https://github.com/osome-iu/Rematch-RARE/assets/29090730/2d27747d-805d-423b-b3bc-1c149a9d57c9)
 
 Steps to reproduce these results:
 1. Parse AMRs from STS-B and SICK-R:
@@ -109,12 +109,13 @@ Steps to reproduce these results:
    
    `<parser>` should be one of `AMR3-structbart-L-smpl`, `AMR3-joint-ontowiki-seed42`, `spring_unwiki` or `amrbart_unwiki`. Ensure the chosen `<parser>` has been executed in the previous step.
 ### Hybrid Consistency (Bamboo Benchmark)
-![image](https://github.com/Zoher15/Rematch-RARE/assets/29090730/8c6de7b9-ed68-4fed-afe6-2ba383360563)
+![image](https://github.com/osome-iu/Rematch-RARE/assets/29090730/41fc3afc-27f2-4717-bc2e-7d2d8a57bfb7)
 
 Please follow the instructions in the [Bamboo repo](https://github.com/flipz357/bamboo-amr-benchmark). Do note that by default, Bamboo uses Pearsonr, but for our analysis we chose Spearmanr. That change can be made easily in the [evaluation script](https://github.com/flipz357/bamboo-amr-benchmark/blob/main/evaluation-suite/evaluate4tasks.py) by using find and replace. The word `pearsonr` needs to be replaced with `spearmanr`.
 
 ### Efficiency
-![time space](https://github.com/Zoher15/Rematch-RARE/assets/29090730/2024bc28-be07-42fe-a406-ee46bc2f8680)
+![image](https://github.com/osome-iu/Rematch-RARE/assets/29090730/9c5dc4f0-0c79-46a4-8811-1eb7a45c1b18)
+
 |AMR Metric|Time(s)|RAM(GB)|
 |---|---|---|
 |_smatch_|927|0.2|
