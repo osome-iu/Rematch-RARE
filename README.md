@@ -8,7 +8,7 @@ This repository contains the source code, data, and documentation for the resear
   booktitle = {2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics},
   year = {2024},
   url = {https://openreview.net/forum?id=dBnsZ72qUQ},
-  eprint = {https://openreview.net/forum?id=T5e7G9UQ1vK}
+  eprint = {https://arxiv.org/abs/2404.02126}
 }
 ```
 
