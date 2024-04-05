@@ -1,4 +1,9 @@
 # Rematch-RARE
+ 	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/rematch-robust-and-efficient-matching-of/graph-matching-on-rare)](https://paperswithcode.com/sota/graph-matching-on-rare?p=rematch-robust-and-efficient-matching-of)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/rematch-robust-and-efficient-matching-of/semantic-textual-similarity-on-sick)](https://paperswithcode.com/sota/semantic-textual-similarity-on-sick?p=rematch-robust-and-efficient-matching-of)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/rematch-robust-and-efficient-matching-of/semantic-textual-similarity-on-sts-benchmark)](https://paperswithcode.com/sota/semantic-textual-similarity-on-sts-benchmark?p=rematch-robust-and-efficient-matching-of)
+
 This repository contains the source code, data, and documentation for the research paper:
 
 ```
