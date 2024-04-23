@@ -28,7 +28,12 @@ An example of rematch similarity calculation for a pair of AMRs. After AMRs are 
 rematch has a two-step process to calculate similarity. First, sets of motifs are generated. Second, the two sets are
 used to calculate the Jaccard similarity (intersecting motifs shown in color).
 
+## Authors
 
+* Zoher Kachwala (Indiana University)
+* Jisun An (Indiana University)
+* Haewoon Kwak (Indiana University)
+* Filippo Menczer (Indiana University)
 
 ## Abstract
 
