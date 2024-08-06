@@ -14,13 +14,24 @@
 This repository contains the source code, data, and documentation for the research paper:
 
 ```
-@inproceedings{kachwala2024rematch,
-  title = {Rematch: Robust and Efficient Matching of Local Knowledge Graphs for Improved Structural and Semantic Similarity},
-  author = {Kachwala, Zoher and An, Jisun and Kwak, Haewoon and Menczer, Filippo},
-  booktitle = {2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics},
-  year = {2024},
-  url = {https://openreview.net/forum?id=dBnsZ72qUQ},
-  eprint = {https://arxiv.org/abs/2404.02126}
+@inproceedings{kachwala-etal-2024-rematch,
+    title = "{REMATCH}: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity",
+    author = "Kachwala, Zoher  and
+      An, Jisun  and
+      Kwak, Haewoon  and
+      Menczer, Filippo",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2024",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-naacl.64",
+    doi = "10.18653/v1/2024.findings-naacl.64",
+    pages = "1018--1028",
+    abstract = "Knowledge graphs play a pivotal role in various applications, such as question-answering and fact-checking. Abstract Meaning Representation (AMR) represents text as knowledge graphs. Evaluating the quality of these graphs involves matching them structurally to each other and semantically to the source text. Existing AMR metrics are inefficient and struggle to capture semantic similarity. We also lack a systematic evaluation benchmark for assessing structural similarity between AMR graphs. To overcome these limitations, we introduce a novel AMR similarity metric, rematch, alongside a new evaluation for structural similarity called RARE. Among state-of-the-art metrics, rematch ranks second in structural similarity; and first in semantic similarity by 1{--}5 percentage points on the STS-B and SICK-R benchmarks. Rematch is also five times faster than the next most efficient metric.",
 }
 ```
 
