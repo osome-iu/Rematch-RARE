@@ -1,8 +1,13 @@
 # Rematch-RARE
- 	
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/rematch-robust-and-efficient-matching-of/graph-matching-on-rare)](https://paperswithcode.com/sota/graph-matching-on-rare?p=rematch-robust-and-efficient-matching-of)
+[![Conference](http://img.shields.io/badge/NAACL-2024-4b44ce.svg)](https://2024.naacl.org/) 
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/rematch-robust-and-efficient-matching-of/semantic-textual-similarity-on-sick)](https://paperswithcode.com/sota/semantic-textual-similarity-on-sick?p=rematch-robust-and-efficient-matching-of)
+[![Paper](http://img.shields.io/badge/paper-ACL--anthology-B31B1B.svg)](https://aclanthology.org/2024.findings-naacl.64/) 
+
+[![arXiv](https://img.shields.io/badge/arXiv-2404.02126-b31b1b.svg)](https://arxiv.org/abs/2404.02126) 
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/rematch-robust-and-efficient-matching-of/graph-matching-on-rare)](https://paperswithcode.com/sota/graph-matching-on-rare?p=rematch-robust-and-efficient-matching-of) 
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/rematch-robust-and-efficient-matching-of/semantic-textual-similarity-on-sick)](https://paperswithcode.com/sota/semantic-textual-similarity-on-sick?p=rematch-robust-and-efficient-matching-of) 
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/rematch-robust-and-efficient-matching-of/semantic-textual-similarity-on-sts-benchmark)](https://paperswithcode.com/sota/semantic-textual-similarity-on-sts-benchmark?p=rematch-robust-and-efficient-matching-of)
 
