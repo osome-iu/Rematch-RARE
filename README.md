@@ -1,4 +1,4 @@
-# Rematch-RARE
+# [Rematch-RARE](https://aclanthology.org/2024.findings-naacl.64)
 [![Conference](http://img.shields.io/badge/NAACL-2024-4b44ce.svg)](https://2024.naacl.org/) 
 
 [![Paper](http://img.shields.io/badge/paper-ACL--anthology-B31B1B.svg)](https://aclanthology.org/2024.findings-naacl.64/) 
